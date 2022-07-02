@@ -34,9 +34,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bradley and I've done everything from helping to build a budding national organization run by students in the hopes of furthering their education; to running the IT department of a commercial construction company. With this experience under my belt and my love for computers, I decided to open Kars Customs in hopes of helping make others’ lives easier while also advancing my career. I’ve now returned to furthering my education where I’m a Dean's list student at Purdue University Global. Where I'm toward my Bachelor of Science in Cybersecurity with a focus in Game Development while simultaneously employed as a System Support Specialist Intern.
+Hi, my name’s Bradley and I’ve done everything from helping to build a budding national organization run by students in the hopes of furthering their education; to running the IT department of a commercial construction company. I’ve now returned to furthering my education where I’m a Dean’s list student at Purdue University Global. Where I’m toward my Bachelor of Science in Cybersecurity with a focus in Game Development, while simultaneously employed as a System Support Specialist Intern.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>System Support</mark> and <mark>Hardware Diagnostics</mark>
 
 content:
   - title: Projects # Title for the section
