@@ -52,6 +52,7 @@ content:
           Creating the broadest, smartest and most agile software platform for building safer, smarter communities.
         description: | # this will include new lines to allow paragraphs
             Every company needs its systems properly supported and CentralSquare is no exception. Devloping, deploying, and maintianing software is hard and I play my part making sure the whole company stays connected. I work hand and hand with people from every department to keep their systems functioning as they need.
+      - layout: left
         title: CentralSquare Technologies
         link: https://www.centralsquare.com/
         # link_text: boringcompany.com
