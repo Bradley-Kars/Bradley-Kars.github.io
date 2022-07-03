@@ -45,7 +45,7 @@ content:
       - layout: left
         title: CentralSquare Technologies
         link: https://www.centralsquare.com/
-         link_text: CentralSquare
+        link_text: CentralSquare
         sub_title: System Support Specialist Intern
         caption: March 2022 - Present
         quote: >
@@ -55,7 +55,7 @@ content:
       - layout: left
         title: Kars Customs
         link: 
-         link_text: 
+        link_text: 
         sub_title: Owner/Lead Repair Tech
         caption: September 2016 - Present
         quote: >
