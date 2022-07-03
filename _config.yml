@@ -104,6 +104,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: IT213 - Software Development Concepts
+        link: https://github.com/slayerbrk/slayerbrk.github.io/tree/main/IT213%20-%20%20Software%20Development%20Concepts
+        link_text: Software Development Concepts
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+          #   icon: fab fa-github
+          #   url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Dipping my toes into the world of coding as this is my first ever experience with a fully-fledged programming language.
+        description: | # this will include new lines to allow paragraphs
+          This project was taken up in the hopes of gaining a better understanding of <mark>C#</mark> though it will be the first of many. This program has helped expand my knowledge earning it a place in my portfolio.
+      - layout: top-middle
         title: IT117 - Website Development
         link: https://github.com/slayerbrk/slayerbrk.github.io/tree/main/IT117%20-%20Website%20Development
         link_text: Website Development
@@ -115,10 +130,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          The first website I ever created, it may not be perfect but it's a start.
+          The first website I ever created; it may not be perfect but it's a start.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>HTML</mark> making it the first step of many to mastering the laungage. I have learned many skills through this and been I'm very proud of having this in my portfolio.
-
+          I started this project as a way of learning <mark>HTML</mark> making it the first step of many to mastering the language. I have learned many skills through this and been I'm very proud of having this in my portfolio.
 
   - title: A Little More About Me
     layout: text
