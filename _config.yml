@@ -45,7 +45,7 @@ content:
       - layout: left
         title: CentralSquare Technologies
         link: https://www.centralsquare.com/
-        # link_text: boringcompany.com
+         link_text: CentralSquare
         sub_title: System Support Specialist Intern
         caption: March 2022 - Present
         quote: >
@@ -53,15 +53,15 @@ content:
         description: | # this will include new lines to allow paragraphs
             Every company needs its systems properly supported and CentralSquare is no exception. Devloping, deploying, and maintianing software is hard and I play my part making sure the whole company stays connected. I work hand and hand with people from every department to keep their systems functioning as they need.
       - layout: left
-        title: CentralSquare Technologies
-        link: https://www.centralsquare.com/
-        # link_text: boringcompany.com
-        sub_title: System Support Specialist Intern
-        caption: March 2022 - Present
+        title: Kars Customs
+        link: 
+         link_text: 
+        sub_title: Owner/Lead Repair Tech
+        caption: September 2016 - Present
         quote: >
-          Creating the broadest, smartest and most agile software platform for building safer, smarter communities.
+          Aiming to make your life easier by providing support and a knowledge base for your technological needs.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its systems properly supported and CentralSquare is no exception. Devloping, deploying, and maintianing software is hard and I play my part making sure the whole company stays connected. I work hand and hand with people from every department to keep their systems functioning as they need.
+            Here to help every step of the way from guiding customers through purchases, to finding them the best deals while supporting their devices for as long as they want to keep them. All under the goal of making it so technology can do its job and truly make their lives easier.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
