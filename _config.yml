@@ -104,6 +104,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: IT244 - Python Programming
+        link: https://github.com/Bradley-Kars/slayerbrk.github.io/tree/main/IT244%20-%20Python%20Programming
+        link_text: Python Programming
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+          #   icon: fab fa-github
+          #   url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A project taken on to further my understanding of coding while gaining my footing in a new programing language.
+        description: | # this will include new lines to allow paragraphs
+          The start in a long journey to fully understand <mark>Python</mark> a language I'm quickly growing to love. This is the first time I've felt as if coding just make sense and thus holds the highest mantel in my current portfolio.
+      - layout: top-middle
         title: IT213 - Software Development Concepts
         link: https://github.com/slayerbrk/slayerbrk.github.io/tree/main/IT213%20-%20%20Software%20Development%20Concepts
         link_text: Software Development Concepts
@@ -137,14 +152,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      Alongside my interests in <mark>Cyber Securtiy</mark>, <mark>Software Engineering</mark>, and <mark>System Support</mark> some of my other interests and hobbies are:
+      - Video game development
+      - Video editing
+      - Streaming
+      - Creating enthusiast computer builds
+      - Tinkering with my homelab
 
 # Footer
 footer_show_references: true
