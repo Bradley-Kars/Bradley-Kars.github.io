@@ -87,6 +87,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Purdue University Global
         caption: October 2020 – January 2022
         sub_title: Associate of Applied Science in Information Technology - IT Generalist
         quote: >
@@ -94,7 +95,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           While pursuing my Associates degree I maintained a 4.00 GPA placing me on the Chancellor’s list while simultaneously obtaining the necessary tools to support an IT infrastructure.
       - layout: left
-        title: Purdue University Global
         caption: March 2022 - Present
         sub_title: Bachelor of Science in Cybersecurity - Game Development        
         description: | # this will include new lines to allow paragraphs
