@@ -105,7 +105,7 @@ content:
     content:
       - layout: top-middle
         title: IT244 - Python Programming
-        link: https://github.com/Bradley-Kars/slayerbrk.github.io/tree/main/IT244%20-%20Python%20Programming
+        link: https://github.com/Bradley-Kars/IT244_-_Python_Programming
         link_text: Python Programming
         # additional_links:
           # - title:  sproogen/modern-resume-theme
@@ -120,7 +120,7 @@ content:
           The start in a long journey to fully understand <mark>Python</mark> a language I'm quickly growing to love. This is the first time I've felt as if coding just make sense and thus holds the highest mantel in my current portfolio.
       - layout: top-middle
         title: IT213 - Software Development Concepts
-        link: https://github.com/slayerbrk/slayerbrk.github.io/tree/main/IT213%20-%20%20Software%20Development%20Concepts
+        link: https://github.com/Bradley-Kars/IT213_-_Software_Development_Concepts
         link_text: Software Development Concepts
         # additional_links:
           # - title:  sproogen/modern-resume-theme
@@ -135,7 +135,7 @@ content:
           This project was taken up in the hopes of gaining a better understanding of <mark>C#</mark> though it will be the first of many. This program has helped expand my knowledge earning it a place in my portfolio.
       - layout: top-middle
         title: IT117 - Website Development
-        link: https://github.com/slayerbrk/slayerbrk.github.io/tree/main/IT117%20-%20Website%20Development
+        link: https://github.com/Bradley-Kars/IT117_-_Website_Development
         link_text: Website Development
         # additional_links:
           # - title:  sproogen/modern-resume-theme
