@@ -125,6 +125,9 @@ content:
     layout: text
     content: |
       ![Certification](/images/Technical-Support-Fundamentals.jpg "Certification")
+      <p align="center">
+        <img width="460" height="300" src="/images/Technical-Support-Fundamentals.jpg">
+      </p>
 
   - title: A Little More About Me
     layout: text
