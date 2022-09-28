@@ -124,7 +124,7 @@ content:
   - title: Certifications
     layout: list
     content: |
-       - <img src="/images/Technical-Support-Fundamentals.jpg" alt="Technical Support Fundamentals Certification" width="200"/>
+       - ![Alt text](/images/Technical-Support-Fundamentals.jpg "Technical Support Fundamentals Certification" =250x)
   
   - title: A Little More About Me
     layout: text
