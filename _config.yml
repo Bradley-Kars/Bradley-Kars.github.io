@@ -124,10 +124,11 @@ content:
   - title: Certifications
     layout: text
     content: |
-      ![Certification](/images/Technical-Support-Fundamentals.jpg "Certification")
-      <a href="https://coursera.org/verify/WD9JVS6EEER2">
-        <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
-      </a>
+      <p align="center">
+        <a href="https://coursera.org/verify/WD9JVS6EEER2">
+          <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
+        </a>
+      </p>
 
   - title: A Little More About Me
     layout: text
