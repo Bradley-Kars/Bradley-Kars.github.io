@@ -125,10 +125,10 @@ content:
     layout: list
     content:
      - layout: top-middle
-        title: Technical Support Fundamentals
-        sub_title: Google
-        link: https://coursera.org/verify/WD9JVS6EEER2
-        link_text: Certificate
+       title: Technical Support Fundamentals
+       sub_title: Google
+       link: https://coursera.org/verify/WD9JVS6EEER2
+       link_text: Certificate
   
   - title: A Little More About Me
     layout: text
