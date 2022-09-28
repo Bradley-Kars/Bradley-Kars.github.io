@@ -124,7 +124,7 @@ content:
   - title: Certifications
     layout: text
     content: |
-       - ![Alt text](/images/Technical-Support-Fundamentals.jpg "Technical Support Fundamentals Certification" =250x)
+       - Images ![Alt text](/images/Technical-Support-Fundamentals.jpg "Technical Support Fundamentals Certification" =250x)
   
   - title: A Little More About Me
     layout: text
