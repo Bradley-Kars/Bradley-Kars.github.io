@@ -122,9 +122,14 @@ content:
           I started this project as a way of learning <mark>HTML</mark> making it the first step of many to mastering the language. I have learned many skills through this and been I'm very proud of having this in my portfolio.
 
   - title: Certifications
-    layout: text
-    content: |
-       - [![Alt text](/images/Technical-Support-Fundamentals.jpg "Technical Support Fundamentals Certification")](https://coursera.org/verify/WD9JVS6EEER2)
+    layout: list
+    content:
+     - layout: top-middle
+        title: Technical Support Fundamentals
+        sub_title: Google
+        link: https://github.com/Bradley-Kars/IT244_-_Python_Programming
+        link_text: Technical Support Fundamentals Certification
+          - [![Alt text](/images/Technical-Support-Fundamentals.jpg "Technical Support Fundamentals Certification")](https://coursera.org/verify/WD9JVS6EEER2)
   
   - title: A Little More About Me
     layout: text
