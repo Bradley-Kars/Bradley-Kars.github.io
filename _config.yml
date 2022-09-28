@@ -129,7 +129,7 @@ content:
         sub_title: Google
         link: https://coursera.org/verify/WD9JVS6EEER2
         link_text: Certificate
-          - ![Alt text](/images/Technical-Support-Fundamentals.jpg "Technical Support Fundamentals Certification")
+ #         - ![Alt text](/images/Technical-Support-Fundamentals.jpg "Technical Support Fundamentals Certification")
   
   - title: A Little More About Me
     layout: text
