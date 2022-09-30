@@ -96,7 +96,7 @@ content:
   - title: Coding Classes
     layout: list
     content:
-        layout: top-middle
+      - layout: top-middle
         title: freeCodeCamp - Responsive Web Design
         link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
         link_text: Responsive Web Design
