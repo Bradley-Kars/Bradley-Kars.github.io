@@ -134,14 +134,16 @@ content:
   - title: Certifications
     layout: text
     content: |
-      <h3>
+      <p class="cert">
         <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
           <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
         </a>
-      </h3>
-      <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank">
-        <img src="/images/Responsive-Web-Design.jpg" style="width:33%">
-      </a>
+      </p>
+      <p class="cert-end>">
+        <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank">
+          <img src="/images/Responsive-Web-Design.jpg" style="width:33%">
+        </a>
+      </p>
 
   - title: A Little More About Me
     layout: text
