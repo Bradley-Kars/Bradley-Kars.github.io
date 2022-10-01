@@ -134,14 +134,14 @@ content:
   - title: Certifications
     layout: text
     content: |
-      <p class="cert" style="font-weight:300;font-size:2.5rem;text-align:center">
+      <p class="cert" style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
         <u>Google</u>
         <br>
         <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
           <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
         </a>
       </p>
-      <p class="cert-end" style="font-weight:300;font-size:2.5rem;text-align:center">
+      <p class="cert-end" style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
         <u>freeCodeCamp</u>
         <br>
         <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank">
