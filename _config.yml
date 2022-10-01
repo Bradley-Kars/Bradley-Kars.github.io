@@ -1,161 +1,116 @@
-<link rel="stylesheet" href="styles.css" />
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Bradley Kars
-title: System Support Specialist
-email: bradley.kars@gmail.com
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
-# Social links 
-github_username:  Bradley-Kars
-# stackoverflow_username: 
-linkedin_username: bradley-kars
+# Social links
+twitter_username: facespics
+github_username:  sproogen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-#- title: 
-#  icon: 
-#  url: 
-# - title: 
-#   icon: 
-#   url: 
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: |
-  Hi, my name’s Bradley and I’ve done everything from helping to build a budding national organization run by students in the hopes of furthering their education; to running the IT department of a commercial construction company. I’ve now returned to furthering my education where I’m a Dean’s list student at Purdue University Global, working toward my Bachelor of Science in Cybersecurity with a focus in Game Development. While simultaneously employed as a System Support Specialist Intern to further my understanding of the IT field.
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>System Support</mark> and <mark>Hardware Diagnostics</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: CentralSquare Technologies
-        link: https://www.centralsquare.com/
-        link_text: CentralSquare
-        sub_title: System Support Specialist Intern
-        caption: March 2022 - Present
-        quote: >
-          Creating the broadest, smartest and most agile software platform for building safer, smarter communities.
-        description: |
-            Every company needs its systems properly supported and CentralSquare is no exception. Devloping, deploying, and maintianing software is hard and I play my part by making sure the whole company stays connected. I work hand and hand with people from every department to keep their systems functioning as they need.
-      - layout: left
-        title: Kars Customs
-        link: 
-        link_text: 
-        sub_title: Owner/Lead Repair Tech
-        caption: September 2016 - Present
-        quote: >
-          Aiming to make your life easier by providing support and a knowledge base for your technological needs.
-        description: |
-            Here to help every step of the way from guiding customers through purchases, to finding them the best deals while supporting their devices for as long as they want to keep them. All under the goal of making it so technology can do its job and truly make their lives easier.
-      - layout: left
-        title: MarketSource Inc.
-        link: https://www.marketsource.com/
-        link_text: MarketSource
-        sub_title: Sales Associate → Team Lead
-        caption: July 2018 - November 2019 → November 2019 - March 2020
-        quote: >
-          Technologists committed to making Target America's easiest, safest, and most joyful place to shop and work.
-        description: |
-            There to assist target customers make informed purchases regarding cellular devices while also offering help maintaining said devices. Our goal is to make sure the customer gets what they need from their devices on plans that just work. This includes but is not limited to helping customers choose their devices, diagnosing and fixing basic device issues, and even communicating with their individual carriers on their behalf.
-      - layout: left
-        title: ESCO Services LLC
-        link: 
-        link_text: 
-        sub_title: Estimating Engineer - IT Specialist
-        caption: January 2012 - May 2015
-        quote: >
-          Leaders in quality construction and innovation.
-        description: |
-            Every company needs IT from multimillion dollar organizations to small ma and pa shops and the construction industry is no different. While the systems involved may be less complex devices still need to be maintained, computers kept running, and software configured.
-
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Purdue University Global
-        caption: March 2022 - Present
-        sub_title: Bachelor of Science in Cybersecurity - Game Development
-        quote: >
-          With a history of pioneering online education, Purdue Global’s mission is simple: deliver a fully personalized online learning experience that's tailored to the unique needs of working adults—one that gives them the support they need to achieve their goals and creates new opportunities for their future. While maintaining its image as part of the Renowned Purdue University System.
-        description: |
-          Throughout the process of obtaining my Bachelors in Cybersecurity, with a focus in Game Development, I maintained a 3.98 GPA placing me on the Dean's list. While also using the tools I gained from my Associates degree to begin my work in field as a System Support Specialist Intern.
-      - layout: left
-        caption: October 2020 – January 2022
-        sub_title: Associate of Applied Science in Information Technology - IT Generalist
-        description: |
-          While pursuing my Associates degree I maintained a 4.00 GPA placing me on the Chancellor’s list while simultaneously obtaining the necessary tools to support an IT infrastructure.
- 
-
-
-  - title: Coding Classes
-    layout: list
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: freeCodeCamp - Responsive Web Design
-        link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
-        link_text: Responsive Web Design
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This course was undergone to further my understanding of HTML, and more importantly CSS while gaining a certification to help further my career.
-        description: |
-          Furthering my path to fully understanding both <mark>HTML</mark> and <mark>CSS</mark> two tools I find fascinating. This course helped me understand how powerful <mark>CSS</mark> truly is and kindled a new appreciation for the language.
-      - layout: top-middle
-        title: Purdue University Global - IT244 - Python Programming
-        link: https://github.com/Bradley-Kars/IT244_-_Python_Programming
-        link_text: Python Programming
-        quote: >
-          A project taken on to further my understanding of coding while gaining my footing in a new programing language.
-        description: |
-          The start in a long journey to fully understand <mark>Python</mark> a language I'm quickly growing to love. This is the first time I've felt as if coding just make sense and thus holds the highest mantel in my current portfolio.
-      - layout: top-middle
-        title: Purdue University Global - IT213 - Software Development Concepts
-        link: https://github.com/Bradley-Kars/IT213_-_Software_Development_Concepts
-        link_text: Software Development Concepts
-        quote: >
-          Dipping my toes into the world of coding as this is my first ever experience with a fully-fledged programming language.
-        description: |
-          This project was taken up in the hopes of gaining a better understanding of <mark>C#</mark> though it will be the first of many. This program has helped expand my knowledge earning it a place in my portfolio.
-      - layout: top-middle
-        title: Purdue University Global - IT117 - Website Development
-        link: https://github.com/Bradley-Kars/IT117_-_Website_Development
-        link_text: Website Development
-        quote: >
-          The first website I ever created; it may not be perfect but it's a start.
-        description: |
-          I started this project as a way of learning <mark>HTML</mark> making it the first step of many to mastering the language. I have learned many skills through this and been I'm very proud of having this in my portfolio.
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Certifications
-    layout: text
-    content: |
-      <p class="cert">
-        <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
-          <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
-        </a>
-      </p>
-      <p class="cert-end">
-        <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank">
-          <img src="/images/Responsive-Web-Design.jpg" style="width:33%">
-        </a>
-      </p>
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
-    content: |
-      Alongside my interests in <mark>Cyber Securtiy</mark>, <mark>Software Engineering</mark>, and <mark>System Support</mark> some of my other interests and hobbies are:
-      - Video game development
-      - Video editing
-      - Streaming
-      - Creating enthusiast computer builds
-      - Tinkering with my homelab
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
