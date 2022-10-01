@@ -5,8 +5,16 @@
     margin-bottom: 40px;
 }
 
+.cert > a {
+    width:33%
+}
+
 .cert-end {
     text-align: center;
     padding-bottom: 10px;
     margin-bottom: 40px;
+}
+
+.cert-end > a {
+    width:33%
 }

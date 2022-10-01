@@ -138,12 +138,12 @@ content:
     content: |
       <p class="cert">
         <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
-          <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
+          <img src="/images/Technical-Support-Fundamentals.jpg">
         </a>
       </p>
       <p class="cert-end">
         <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank">
-          <img src="/images/Responsive-Web-Design.jpg" style="width:33%">
+          <img src="/images/Responsive-Web-Design.jpg">
         </a>
       </p>
 
