@@ -134,10 +134,11 @@ content:
   - title: Certifications
     layout: text
     content: |
-      <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
-        <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
-      </a>
-      <hr class="dashed">
+      <h3>
+        <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
+          <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
+        </a>
+      </h3>
       <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank">
         <img src="/images/Responsive-Web-Design.jpg" style="width:33%">
       </a>
