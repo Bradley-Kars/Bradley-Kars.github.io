@@ -135,14 +135,14 @@ content:
     layout: text
     content: |
       <p class="cert" style="font-weight:300;font-size:2rem;text-align:center">
-        Google
+        <b>Google</b>
         <br>
         <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
           <img src="/images/Technical-Support-Fundamentals.jpg" style="width:33%">
         </a>
       </p>
       <p class="cert-end" style="font-weight:300;font-size:2rem;text-align:center">
-        freeCodeCamp
+        <b>freeCodeCamp</b>
         <br>
         <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank">
           <img src="/images/Responsive-Web-Design.jpg" style="width:33%">
