@@ -134,7 +134,7 @@ content:
   - title: Certifications
     layout: text
     content: |
-      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center" class="flexbox">
+      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
         <u>Google</u>
         <br>
         <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
