@@ -134,17 +134,17 @@ content:
   - title: Certifications
     layout: text
     content: |
-      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
+      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center" class="flexbox">
         <u>Google</u>
         <br>
         <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank">
-          <img src="/images/Technical-Support-Fundamentals.jpg" class="flexbox" style="width:50%">
+          <img src="/images/Technical-Support-Fundamentals.jpg" style="width:50%">
         </a>
         <a href="https://coursera.org/verify/X7QN8BQEE226" target="_blank">
-          <img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" class="flexbox" style="width:50%">
+          <img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" style="width:50%">
         </a>
         <a href="https://www.coursera.org/verify/C7VFPZ2KW43L" target="_blank">
-          <img src="/images/Operating-Systems-and-You-Becoming-a-Power-User.jpg" class="flexbox" style="width:50%">
+          <img src="/images/Operating-Systems-and-You-Becoming-a-Power-User.jpg" style="width:50%">
         </a>
       </p>
       <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
