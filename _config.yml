@@ -1,3 +1,9 @@
+<style>
+    a {
+        padding: 0;
+    }
+</style>
+
 # Content configuration version
 version: 2
 
