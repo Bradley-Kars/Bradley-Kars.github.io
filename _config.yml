@@ -141,7 +141,7 @@ content:
           <img src="/images/Technical-Support-Fundamentals.jpg" style="width: 50%; margin-right: -3px; ; border: medium solid white">
         </a>
         <a href="https://coursera.org/verify/X7QN8BQEE226" target="_blank">
-          <img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" style="width: 50%; margin-left: -3px; ; border: medium solid white">
+          <img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" style="width: 50%; margin-left: -3px; ; border: medium solid white; border-left: none">
         </a>
         <a href="https://www.coursera.org/verify/C7VFPZ2KW43L" target="_blank">
           <img src="/images/Operating-Systems-and-You-Becoming-a-Power-User.jpg" style="width: 50%; margin-right: -3px; ; border: medium solid white; border-top: none">
