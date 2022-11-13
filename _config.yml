@@ -27,7 +27,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name’s Bradley and I’ve done everything from helping to build a budding national organization run by students in the hopes of furthering their education; to running the IT department of a commercial construction company. I’ve now returned to furthering my education where I’m a Dean’s list student at Purdue University Global, working toward my Bachelor of Science in Cybersecurity with a focus in Game Development. While simultaneously employed as a System Support Specialist Intern to further my understanding of the IT field.
+  Hi, my name’s Bradley and I’ve done everything from helping to build a budding national organization run by students in the hopes of furthering their education; to running the IT department of a commercial construction company. I’ve now returned to furthering my education where I’m a Dean’s list student at Purdue University Global, working toward my Bachelor of Science in Cybersecurity with a focus in Game Development, while simultaneously employed as a System Support Specialist Intern to further my understanding of the IT field.
 
   I am most skilled in: <mark>System Support</mark> and <mark>Hardware Diagnostics</mark>
 
@@ -44,7 +44,7 @@ content:
         quote: >
           Creating the broadest, smartest and most agile software platform for building safer, smarter communities.
         description: |
-            Every company needs its systems properly supported and CentralSquare is no exception. Devloping, deploying, and maintianing software is hard and I play my part by making sure the whole company stays connected. I work hand and hand with people from every department to keep their systems functioning as they need.
+            Every company needs its systems properly supported and CentralSquare is no exception. Devloping, deploying, and maintaining software is hard and I play my part by making sure the whole company stays connected. I work hand and hand with people from every department to keep their systems functioning as they need.
       - layout: left
         title: Kars Customs
         link: 
@@ -64,7 +64,7 @@ content:
         quote: >
           Technologists committed to making Target America's easiest, safest, and most joyful place to shop and work.
         description: |
-            There to assist target customers make informed purchases regarding cellular devices while also offering help maintaining said devices. Our goal is to make sure the customer gets what they need from their devices on plans that just work. This includes but is not limited to helping customers choose their devices, diagnosing and fixing basic device issues, and even communicating with their individual carriers on their behalf.
+            There to assist Target customers make informed purchases regarding cellular devices while also offering help maintaining said devices. Our goal is to make sure the customer gets what they need from their devices on plans that just work. This includes but is not limited to helping customers choose their devices, diagnosing and fixing basic device issues, and even communicating with their individual carriers on their behalf.
       - layout: left
         title: ESCO Services LLC
         link: 
@@ -129,7 +129,7 @@ content:
         quote: >
           The first website I ever created; it may not be perfect but it's a start.
         description: |
-          I started this project as a way of learning <mark>HTML</mark> making it the first step of many to mastering the language. I have learned many skills through this and been I'm very proud of having this in my portfolio.
+          I started this class as a way of learning <mark>HTML</mark> making it the first step of many to mastering the language. This course helped me learn many new skills while beginning to grow my portfolio.
 
   - title: Certifications
     layout: text
