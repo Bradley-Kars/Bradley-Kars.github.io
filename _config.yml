@@ -164,13 +164,16 @@ content:
         </a>
       </p>
        <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
-        <u>Purdue University Global</u>
+        <u>Badges</u>
         <br>
         <a href="https://www.credential.net/2119e260-1078-481e-8e09-b0179e9d5808#gs.fhmy3g" target="_blank">
           <img src="/images/IT-Fundamentals-Micro-credential.png" style="width:33%">
         </a>
-        <a href="https://www.credly.com/badges/392f6244-7054-4d3c-8c97-d1869e6b614f/linked_in_profile" target="_blank">
+        <a href="https://www.credly.com/badges/392f6244-7054-4d3c-8c97-d1869e6b614f" target="_blank">
           <img src="/images/Cybersecurity-Fundamentals-Micro-credential.png" style="width:33%">
+        </a>
+        <a href="https://www.credly.com/badges/682b53d3-8242-4e30-92cb-fc526e6bf296" target="_blank">
+          <img src="/images/Google-IT-Support-Badge.png" style="width:33%">
         </a>
       </p>
       
