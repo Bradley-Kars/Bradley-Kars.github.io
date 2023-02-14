@@ -35,7 +35,7 @@ content:
   - title: Experience
     layout: list
     content:
-    - layout: left
+      - layout: left
         title: Computer Programs and Systems, Inc.
         link: https://www.cpsi.com/
         link_text: CPSI
