@@ -35,12 +35,22 @@ content:
   - title: Experience
     layout: list
     content:
+    - layout: left
+        title: Computer Programs and Systems, Inc.
+        link: https://www.cpsi.com/
+        link_text: CPSI
+        sub_title: System Support Specialist Intern
+        caption: February 2023 - Present
+        quote: >
+          CPSI is committed to connecting communities, patients and providers to help you deliver the kind of care you want to deliver.
+        description: |
+            As an IT Help Desk Support Specialist at CPSI, I take pride in being the front-line support for our applications and products in the healthcare market. My role involves providing client software and server component support, troubleshooting network setups and communications, and supporting image acquisitions, storage, conversion and printing. Through my problem-solving and analytical skills, I'm able to work collaboratively with other team members to ensure that our clients receive top-notch support services.
       - layout: left
         title: CentralSquare Technologies
         link: https://www.centralsquare.com/
-        link_text: CentralSquare
+        link_text: CST
         sub_title: System Support Specialist Intern
-        caption: March 2022 - Present
+        caption: March 2022 - February 2023
         quote: >
           Creating the broadest, smartest and most agile software platform for building safer, smarter communities.
         description: |
