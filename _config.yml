@@ -17,7 +17,7 @@ linkedin_username: bradley-kars
 # Additional icon links
 additional_links:
  - title: Thingiverse
-   icon: /images/thingiverse.ico
+   icon: fa-solid fa-cube
    url: https://www.thingiverse.com/bradley-kars 
 # - title: 
 #   icon: 
