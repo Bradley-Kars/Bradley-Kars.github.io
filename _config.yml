@@ -143,32 +143,32 @@ content:
 
   - title: Certifications
     layout: text
-    content: |
-      <style>
-        @media screen and (max-width: 767px) {
-          .certs, .badges {
-              display: block;
-              width: 100%;
-              margin-bottom: 2%;
-          }
+content: |
+    <style>
+      @media screen and (max-width: 767px) {
+        .certs, .badges {
+            display: block;
+            width: 100%;
+            margin-bottom: 2%;
         }
-        @media screen and (min-width: 768px) {
-          .certs {
-              display: inline-flex;
-              width: 49.5%; 
-              margin-right: 1%; 
-              margin-bottom: 2%;
-              box-sizing: border-box;
-          }
-          .badges {
-              display: inline-flex;
-              width: 32%; 
-              margin-right: 1%;
-              margin-bottom: 2%;
-              box-sizing: border-box;
-          }
+      }
+      @media screen and (min-width: 768px) {
+        .certs {
+            display: inline-flex;
+            width: calc(50% - 0.5%); 
+            margin-right: 1%; 
+            margin-bottom: 2%;
+            box-sizing: border-box;
         }
-      </style>
+        .badges {
+            display: inline-flex;
+            width: calc(33.33% - 0.33%);
+            margin-right: 1%;
+            margin-bottom: 2%;
+            box-sizing: border-box;
+        }
+      }
+    </style>
       <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
         <u>Google</u>
         <br>
