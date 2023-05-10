@@ -144,7 +144,7 @@ content:
   - title: Certifications
     layout: text
 content: |
-  <div style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
+<div style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
     <u>Google</u>
     <br>
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
@@ -169,9 +169,11 @@ content: |
     </div>
     <u>freeCodeCamp</u>
     <br>
-    <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank" style="width: calc(50% - 10px); margin-bottom: 20px;">
-      <img src="/images/Responsive-Web-Design.jpg" style="width: 100%;">
-    </a>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+      <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank" style="width: calc(50% - 10px); margin-bottom: 20px;">
+        <img src="/images/Responsive-Web-Design.jpg" style="width: 100%;">
+      </a>
+    </div>
     <u>Badges</u>
     <br>
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
@@ -185,7 +187,7 @@ content: |
         <img src="/images/Google-IT-Support-Badge.png" style="width: 100%;">
       </a>
     </div>
-  </div>
+</div>
 
   - title: A Little More About Me
     layout: text
