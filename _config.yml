@@ -144,7 +144,7 @@ content:
   - title: Certifications
     layout: text
 content: |
-<div style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
+    <div style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
     <u>Google</u>
     <br>
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
@@ -187,7 +187,7 @@ content: |
         <img src="/images/Google-IT-Support-Badge.png" style="width: 100%;">
       </a>
     </div>
-</div>
+    </div>
 
   - title: A Little More About Me
     layout: text
@@ -204,7 +204,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
