@@ -27,7 +27,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name’s Bradley and I’ve done everything from helping to build a budding national organization run by students in the hopes of furthering their education; to running the IT department of a commercial construction company. I’ve now returned to furthering my education where I’m a Dean’s list student at Purdue University Global, working toward my Bachelor of Science in Cybersecurity with a focus in Game Development, while simultaneously employed as a System Support Specialist Intern to further my understanding of the IT field.
+  Hi, my name’s Bradley and I’ve done everything from helping to build a budding national organization run by students in the hopes of furthering their education; to running the IT department of a commercial construction company. I’ve now returned to furthering my education where I’m a Dean’s list student at Purdue University Global, working toward my Bachelor of Science in Cyber Security with a focus in Game Development, while simultaneously employed as a System Support Specialist Intern to further my understanding of the IT field.
 
   I am most skilled in: <mark>System Support</mark> and <mark>Hardware Diagnostics</mark>
 
@@ -191,7 +191,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my interests in <mark>Cyber Securtiy</mark>, <mark>Software Engineering</mark>, and <mark>System Support</mark> some of my other interests and hobbies are:
+      Alongside my interests in <mark>Cyber Security</mark>, <mark>Software Engineering</mark>, and <mark>System Support</mark> some of my other interests and hobbies are:
       - Video game development
       - Video editing
       - Streaming
