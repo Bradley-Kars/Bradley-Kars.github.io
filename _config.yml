@@ -167,45 +167,9 @@ content:
         }
       </style>
       <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
-          <u>Google</u>
-          <br>
-          <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <br>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-          <style>
-            @media screen and (max-width: 767px) {
-              .certs, .badges {
-                width: 100%;
-              }
-            }
-            @media screen and (min-width: 768px) {
-              .certs {
-                width: 50%;
-              }
-              .badges {
-                width: 33.33%;
-              }
-            }
-          </style>
-      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
         <u>Google</u>
         <br>
         <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-          <style>
-            @media screen and (max-width: 767px) {
-              .certs, .badges {
-                width: 100%;
-              }
-            }
-            @media screen and (min-width: 768px) {
-              .certs {
-                width: 50%;
-              }
-              .badges {
-                width: 33.33%;
-              }
-            }
-          </style>
           <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank" class="certs" style="box-sizing: border-box;">
             <img src="/images/Technical-Support-Fundamentals.jpg" style="width: 100%;">
           </a>
