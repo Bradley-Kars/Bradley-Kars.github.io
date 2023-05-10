@@ -149,20 +149,23 @@ content:
           .certs, .badges {
               display: block;
               width: 100%;
+              margin-bottom: 2%;
           }
         }
         @media screen and (min-width: 768px) {
           .certs {
               display: inline-flex;
-              width: 48%; 
-              margin-right: 2%; 
-              justify-content: space-between;
+              width: 49.5%; 
+              margin-right: 1%; 
+              margin-bottom: 2%;
+              box-sizing: border-box;
           }
           .badges {
               display: inline-flex;
               width: 32%; 
               margin-right: 1%;
-              justify-content: space-between;
+              margin-bottom: 2%;
+              box-sizing: border-box;
           }
         }
       </style>
