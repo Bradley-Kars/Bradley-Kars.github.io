@@ -148,23 +148,83 @@ content:
           <u>Google</u>
           <br>
           <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-              <style>
-                  @media screen and (max-width: 767px) {
-                      .certs, .badges {
-                          width: 100%;
-                      }
-                  }
-                  @media screen and (min-width: 768px) {
-                      .certs {
-                          width: 50%;
-                      }
-                      .badges {
-                          width: 33.33%;
-                      }
-                  }
-              </style>
-              <!-- The rest of your code... -->
-          </div>
+<style>
+    @media screen and (max-width: 767px) {
+        .certs, .badges {
+            display: block;
+            width: 100%;
+        }
+    }
+    @media screen and (min-width: 768px) {
+        .certs {
+            display: inline-block;
+            width: 50%;
+        }
+        .badges {
+            display: inline-block;
+            width: 32%;
+            margin-right: 1%;
+        }
+    }
+      </style>
+
+       <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
+        <u>Google</u>
+        <br>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+          <style>
+            @media screen and (max-width: 767px) {
+              .certs, .badges {
+                width: 100%;
+              }
+            }
+            @media screen and (min-width: 768px) {
+              .certs {
+                width: 50%;
+              }
+              .badges {
+                width: 33.33%;
+              }
+            }
+          </style>
+      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
+        <u>Google</u>
+        <br>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+          <style>
+            @media screen and (max-width: 767px) {
+              .certs, .badges {
+                width: 100%;
+              }
+            }
+            @media screen and (min-width: 768px) {
+              .certs {
+                width: 50%;
+              }
+              .badges {
+                width: 33.33%;
+              }
+            }
+          </style>
+          <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank" class="certs" style="box-sizing: border-box;">
+            <img src="/images/Technical-Support-Fundamentals.jpg" style="width: 100%;">
+          </a>
+          <a href="https://coursera.org/verify/X7QN8BQEE226" target="_blank" class="certs" style="box-sizing: border-box;">
+            <img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" style="width: 100%;">
+          </a>
+          <a href="https://www.coursera.org/verify/C7VFPZ2KW43L" target="_blank" class="certs" style="box-sizing: border-box;">
+            <img src="/images/Operating-Systems-and-You-Becoming-a-Power-User.jpg" style="width: 100%;">
+          </a>
+          <a href="https://www.coursera.org/verify/KHEMEC538SZH" target="_blank" class="certs" style="box-sizing: border-box;">
+            <img src="/images/System-Administration-and-IT-Infrastructure.jpg" style="width: 100%;">
+          </a>
+          <a href="https://www.coursera.org/verify/E84SQAGPPD6U" target="_blank" class="certs" style="box-sizing: border-box;">
+            <img src="/images/IT-Security-Defense-against-the-digital-dark-arts.jpg" style="width: 100%;">
+          </a>
+          <a href="https://www.coursera.org/verify/SVPNDGLLQX3X" target="_blank" class="certs" style="box-sizing: border-box;">
+            <img src="/images/Google-IT-Support.jpg" style="width: 100%;">
+          </a>
+        </div>
       </p>
       <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
           <u>freeCodeCamp</u>
@@ -172,21 +232,21 @@ content:
           <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank" class="certs" style="box-sizing: border-box;">
               <img src="/images/Responsive-Web-Design.jpg" style="width: 100%;">
           </a>
-          <br>
+      </p>
+      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
           <u>Badges</u>
           <br>
-          <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-              <a href="https://www.credential.net/2119e260-1078-481e-8e09-b0179e9d5808#gs.fhmy3g" target="_blank" class="badges" style="width: 100%; box-sizing: border-box;">
-                  <img src="/images/IT-Fundamentals-Micro-credential.png" style="width: 100%;">
-              </a>
-              <a href="https://www.credly.com/badges/392f6244-7054-4d3c-8c97-d1869e6b614f" target="_blank" class="badges" style="width: 100%; box-sizing: border-box;">
-                  <img src="/images/Cybersecurity-Fundamentals-Micro-credential.png" style="width: 100%;">
-              </a>
-              <a href="https://www.credly.com/badges/682b53d3-8242-4e30-92cb-fc526e6bf296" target="_blank" class="badges" style="width: 100%; box-sizing: border-box;">
-                  <img src="/images/Google-IT-Support-Badge.png" style="width: 100%;">
-              </a>
-          </div>
-      </p>   
+          <a href="https://www.credential.net/2119e260-1078-481e-8e09-b0179e9d5808#gs.fhmy3g" target="_blank" class="badges" style="box-sizing: border-box;">
+              <img src="/images/IT-Fundamentals-Micro-credential.png" style="width: 100%;">
+          </a>
+          <a href="https://www.credly.com/badges/392f6244-7054-4d3c-8c97-d1869e6b614f" target="_blank" class="badges" style="box-sizing: border-box;">
+              <img src="/images/Cybersecurity-Fundamentals-Micro-credential.png" style="width: 100%;">
+          </a>
+          <a href="https://www.credly.com/badges/682b53d3-8242-4e30-92cb-fc526e6bf296" target="_blank" class="badges" style="box-sizing: border-box;">
+              <img src="/images/Google-IT-Support-Badge.png" style="width: 100%;">
+          </a>
+      </p>
+
 
   - title: A Little More About Me
     layout: text
