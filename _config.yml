@@ -16,10 +16,10 @@ linkedin_username: bradley-kars
 
 # Additional icon links
 additional_links:
- - title: Thingiverse
+ - title: Thingiverse link
    icon: fa fa-cube
    url: https://www.thingiverse.com/bradley-kars 
- - title: 
+ - title: PCPartPicker link
    icon: fa fa-desktop
    url: https://pcpartpicker.com/user/Bradley_Kars/builds/
 
