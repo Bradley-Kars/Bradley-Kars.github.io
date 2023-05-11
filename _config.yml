@@ -148,19 +148,25 @@ content:
         <u>Google</u>
         <br>
         <style>
-          @media screen and (max-width: 767px) {
-            .certs, .badges {
-              width: 100%;
+            @media screen and (max-width: 767px) {
+                .certs, .badges {
+                    width: 100%;
+                }
+                .badges img {
+                    width: 100%;
+                }
             }
-          }
-          @media screen and (min-width: 768px) {
-            .certs {
-              width: 50%;
+            @media screen and (min-width: 768px) {
+                .certs {
+                    width: 50%;
+                }
+                .badges {
+                    width: 33.33%;
+                }
+                .badges img {
+                    width: 100%;
+                }
             }
-            .badges {
-              width: 33.33%;
-            }
-          }
         </style>
         <div style="display: flex; flex-wrap: wrap; justify-content: center;">
           <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank" class="certs" style="box-sizing: border-box;">
@@ -188,6 +194,7 @@ content:
         <br>
         <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank" class="certs" style="box-sizing: border-box;">
           <img src="/images/Responsive-Web-Design.jpg" style="width: 100%; border: 6px solid white;">
+        </a>
       <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
         <u>Badges</u>
         <br>
