@@ -113,25 +113,33 @@ content:
         link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
         link_text: Responsive Web Design
         quote: >
-          This course was undergone to further my understanding of HTML, and more importantly CSS while gaining a certification to help further my career.
+          An immersive certification program that deepened my knowledge of HTML and CSS, empowering me to create visually captivating and user-friendly webpages while adhering to industry standards.
         description: |
-          Furthering my path to fully understanding both <mark>HTML</mark> and <mark>CSS</mark> two tools I find fascinating. This course helped me understand how powerful <mark>CSS</mark> truly is and kindled a new appreciation for the language.
+          I successfully completed the Responsive Web Design Certification on freeCodeCamp, gaining comprehensive knowledge and skills in <mark>HTML</mark> and <mark>CSS</mark>, the fundamental languages utilized in webpage development. The certification program provided hands-on training and practical exercises to strengthen my proficiency in web design and development. By completing various projects and assignments, I acquired expertise in creating visually appealing and user-friendly webpages while adhering to industry standards.
       - layout: top-middle
         title: Purdue University Global - IT244 - Python Programming
         link: https://github.com/Bradley-Kars/IT244_-_Python_Programming
         link_text: Python Programming
         quote: >
-          A project taken on to further my understanding of coding while gaining my footing in a new programing language.
+          A comprehensive course focused on Python programming, covering fundamental concepts and advanced topics to enhance my skills and proficiency in the language.
         description: |
-          The start in a long journey to fully understand <mark>Python</mark> a language I'm quickly growing to love. This is the first time I've felt as if coding just make sense and thus holds the highest mantel in my current portfolio.
+          I successfully completed the IT244 course at Purdue University Global, where I gained a comprehensive understanding of <mark>Python</mark> programming. Throughout the course, I covered essential programming concepts, including variables, data types, decision making, operators, iteration, and data structures. Additionally, I explored advanced topics such as file management, security, classes, modules, and built-in tools in Python. Through hands-on exercises and projects, I developed a strong proficiency in Python programming, equipping me with the skills necessary for application in real-world scenarios.
+      - layout: top-middle
+        title: Purdue University Global - IT232 - Software Design and Development Concepts
+        link: https://github.com/Bradley-Kars/IT232_-_Software_Design_and_Development_Concepts
+        link_text: C# Programming
+        quote: >
+          A transformative course that expanded my software design and development capabilities, empowering me to create robust applications while applying universal programming concepts with proficiency.
+        description: |
+          In the IT232 course at Purdue University Global, I advanced my knowledge in software design and development concepts. The course provided an intermediate-level exploration of various implementation methods while emphasizing the universal nature of design and programming principles. I gained practical experience in applying software design techniques, utilizing software process models, understanding object-oriented programming concepts, and implementing secure data-handling techniques. By developing, debugging, and testing intermediate-level applications using <mark>C#</mark>, my chosen programming language, I acquired hands-on expertise in designing robust and secure software solutions. This course equipped me with valuable skills and knowledge to excel in software development, enabling me to confidently apply industry-standard practices in real-world projects.
       - layout: top-middle
         title: Purdue University Global - IT213 - Software Development Concepts
         link: https://github.com/Bradley-Kars/IT213_-_Software_Development_Concepts
         link_text: Software Development Concepts
         quote: >
-          Dipping my toes into the world of coding as this is my first ever experience with a fully-fledged programming language.
+          An exciting journey into the world of coding, where I experienced my first-ever encounter with a comprehensive programming language and laying the foundation for future explorations in software development.
         description: |
-          This project was taken up in the hopes of gaining a better understanding of <mark>C#</mark> though it will be the first of many. This program has helped expand my knowledge earning it a place in my portfolio.
+          In the IT213 course at Purdue University Global, I gained a comprehensive understanding of software development concepts. The course provided a solid foundation in software engineering by exploring fundamental principles applicable across multiple programming languages. Through practical exercises and projects, I designed, developed, debugged, and tested simple applications using <mark>C#</mark>, my chosen programming language for the course. This hands-on experience deepened my knowledge of software development and equipped me with valuable skills in applying programming concepts to real-world scenarios.
       - layout: top-middle
         title: Purdue University Global - IT117 - Website Development
         link: https://github.com/Bradley-Kars/IT117_-_Website_Development
@@ -139,7 +147,7 @@ content:
         quote: >
           The first website I ever created; it may not be perfect but it's a start.
         description: |
-          I started this class as a way of learning <mark>HTML</mark> making it the first step of many to mastering the language. This course helped me learn many new skills while beginning to grow my portfolio.
+          In the IT117 course at Purdue University Global, I explored internet technologies and acquired a strong foundation in website development. The course focused on web page design and provided hands-on experience in using <mark>HTML</mark>, <mark>HTML5</mark>, and <mark>CSS</mark>  to create visually appealing and interactive websites. Through practical projects and assignments, I developed the skills required to design and build websites that meet modern standards. Additionally, the course emphasized self-promotion and showcasing my abilities to a wider audience through web-based platforms. This course equipped me with the knowledge and skills necessary to create compelling websites and effectively demonstrate my expertise in website development.
 
   - title: Certifications
     layout: text
