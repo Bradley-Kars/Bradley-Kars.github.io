@@ -166,7 +166,10 @@ content:
             }
             @media screen and (min-width: 768px) {
                 .certs {
-                    width: 50%;
+                    width: 100%;
+                }
+                .subcerts {
+                    width: 20%;
                 }
                 .badges {
                     width: 33.33%;
@@ -177,33 +180,24 @@ content:
             }
         </style>
         <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-          <a href="https://www.coursera.org/verify/SVPNDGLLQX3X" target="_blank" class="certs" style="box-sizing: border-box; width: 100%;">
+          <a href="https://www.coursera.org/verify/SVPNDGLLQX3X" target="_blank" class="certs" style="box-sizing: border-box;">
             <img src="/images/Google-IT-Support.jpg" alt="Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
           </a>
-        <div style="display: flex; justify-content: center;">
-          <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank" class="certs" style="box-sizing: border-box; width: 20%;">
+          <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank" class="subcerts" style="box-sizing: border-box;">
             <img src="/images/Technical-Support-Fundamentals.jpg" alt="Technical Support Fundamentals certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
           </a>
-          <a href="https://coursera.org/verify/X7QN8BQEE226" target="_blank" class="certs" style="box-sizing: border-box; width: 20%;">
+          <a href="https://coursera.org/verify/X7QN8BQEE226" target="_blank" class="subcerts" style="box-sizing: border-box;">
             <img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" alt="The Bits and Bytes of Computer Networking certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
           </a>
-          <a href="https://www.coursera.org/verify/C7VFPZ2KW43L" target="_blank" class="certs" style="box-sizing: border-box; width: 20%;">
+          <a href="https://www.coursera.org/verify/C7VFPZ2KW43L" target="_blank" class="subcerts" style="box-sizing: border-box;">
             <img src="/images/Operating-Systems-and-You-Becoming-a-Power-User.jpg" alt="Operating Systems and You: Becoming a Power User certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
           </a>
-          <a href="https://www.coursera.org/verify/KHEMEC538SZH" target="_blank" class="certs" style="box-sizing: border-box; width: 20%;">
+          <a href="https://www.coursera.org/verify/KHEMEC538SZH" target="_blank" class="subcerts" style="box-sizing: border-box;">
             <img src="/images/System-Administration-and-IT-Infrastructure.jpg" alt="System Administration and IT Infrastructure Services certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
           </a>
-          <a href="https://www.coursera.org/verify/E84SQAGPPD6U" target="_blank" class="certs" style="box-sizing: border-box; width: 20%;">
+          <a href="https://www.coursera.org/verify/E84SQAGPPD6U" target="_blank" class="subcerts" style="box-sizing: border-box;">
             <img src="/images/IT-Security-Defense-against-the-digital-dark-arts.jpg" alt="IT Security: Defense against the digital dark arts certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
           </a>
-  </div>
-</p>
-<p style="font-family: Roboto, sans-serif; font-weight: 300; font-size: 2.25rem; text-align: center;">
-  <u>freeCodeCamp</u>
-  <br>
-  <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank" class="certs" style="box-sizing: border-box;">
-    <img src="/images/Responsive-Web-Design.jpg" style="width: 100%; border: 6px solid white;">
-  </a>
         </div>
       </p>
       <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
