@@ -115,7 +115,7 @@ content:
         quote: >
           An ambitious personal project where I am dedicating 100 days to mastering Python programming, resulting in a diverse portfolio of Python applications and a deepened understanding of the language.
         description: |
-          I am currently in the midst of a 100-day journey to master Python programming. This ambitious project allows me to explore various Python libraries, frameworks, and application areas, enabling me to create a diverse portfolio of Python-based projects. Throughout this endeavor, I tackle real-world problems, enhance my problem-solving skills, and delve into Python's capabilities in web development, data analysis, automation, and more. This experience is not only strengthening my proficiency in Python but also honing my ability to learn independently and adapt to new challenges, making it a pivotal chapter in my coding journey.
+          I am currently in the midst of a 100-day journey to master <mark>Python</mark> programming. This ambitious project allows me to explore various Python libraries, frameworks, and application areas, enabling me to create a diverse portfolio of Python-based projects. Throughout this endeavor, I tackle real-world problems, enhance my problem-solving skills, and delve into Python's capabilities in web development, data analysis, automation, and more. This experience is not only strengthening my proficiency in Python but also honing my ability to learn independently and adapt to new challenges, making it a pivotal chapter in my coding journey.
       - layout: top-middle
         title: freeCodeCamp - Responsive Web Design
         link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
