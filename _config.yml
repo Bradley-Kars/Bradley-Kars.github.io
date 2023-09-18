@@ -111,7 +111,7 @@ content:
       - layout: top-middle
         title: 100 Days of Coding - Python
         link: https://github.com/Bradley-Kars/100_Days_of_Code_Python
-        link_text: 100 Days of Coding: Python Project
+        link_text: 100 Days of Coding - Python Project
         quote: >
           An ambitious personal project where I am dedicating 100 days to mastering Python programming, resulting in a diverse portfolio of Python applications and a deepened understanding of the language.
         description: |
