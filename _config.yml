@@ -115,7 +115,7 @@ content:
         quote: >
           An ambitious personal project where I am dedicating 100 days to mastering Python programming, resulting in a diverse portfolio of Python applications and a deepened understanding of the language.
         description: |
-          I am currently in the midst of a 100-day <mark>Python</mark> programming journey, dedicating 20-40 minutes daily to mastering Python concepts. This structured course covers everything from 'Hello World' to advanced topics, including web development, API integration, web scraping, and automation. Each day features hands-on projects, leading to the creation of a product price scraper on Day 100.  This experience is not only strengthening my proficiency in Python but also honing my ability to learn independently and adapt to new challenges, making it a pivotal chapter in my coding journey.
+          I am currently in the midst of a 100-day <mark>Python</mark> programming journey, dedicating time every day to mastering Python concepts. This structured course covers everything from 'Hello World' to advanced topics, including web development, API integration, web scraping, and automation. Each day I'll be posting my code for these hands-on projects.  This experience will not only strengthen my proficiency in Python but also honing my ability to learn independently and adapt to new challenges, making it a pivotal chapter in my coding journey.
       - layout: top-middle
         title: freeCodeCamp - Responsive Web Design
         link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
