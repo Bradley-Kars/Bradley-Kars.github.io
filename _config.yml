@@ -103,7 +103,7 @@ content:
         description: |
           During my pursuit of an Associate of Applied Science in Information Technology - IT Generalist, I maintained a consistent 4.00 GPA, earning a place on the Chancellor's list. Graduating with the highest honors of summa cum laude, this achievement demonstrates my dedication and commitment to academic excellence throughout my studies. It reflects my strong drive to acquire the essential skills and knowledge necessary for effectively supporting and managing complex IT infrastructures.
       - layout: text
-        content: |
+        content: >
           <style>
             @media screen and (max-width: 767px) {
                 .diploma {
@@ -119,11 +119,10 @@ content:
 
           <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
             <u>Diploma</u>
-            <br>
-            <a href="https://www.credential.net/6f8b31ed-9c8c-4201-bbf4-abf1f6b2b84d#gs.745kpq" target="_blank" class="diploma" style="box-sizing: border-box;">
-              <img src="/images/Purdue University Global e-Diploma.jpg" alt="My e-Diploma" style="width: 100%; border: 6px solid white;">
-            </a>
           </p>
+          <a href="https://www.credential.net/6f8b31ed-9c8c-4201-bbf4-abf1f6b2b84d#gs.745kpq" target="_blank" class="diploma" style="box-sizing: border-box;">
+            <img src="/images/Purdue University Global e-Diploma.jpg" alt="My e-Diploma" style="width: 100%; border: 6px solid white;">
+          </a>
 
   - title: Coding Portfolio
     layout: list
