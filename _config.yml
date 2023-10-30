@@ -17,7 +17,7 @@ darkmode: true
 # Additional icon links
 additional_links:
  - title: Links
-   icon: fa-solid fa-user-secret
+   icon: fa fa-user-secret
    url: https://bio.link/bradley_kars
 
 # About Section
