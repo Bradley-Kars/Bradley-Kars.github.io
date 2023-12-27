@@ -108,9 +108,10 @@ content:
         link: https://github.com/Bradley-Kars/100_Days_of_Code_Python
         link_text: 100 Days of Coding - Python Project
         quote: >
-          An ambitious personal project where I am dedicating 100 days to mastering Python programming, resulting in a diverse portfolio of Python applications and a deepened understanding of the language.
+          An ambitious personal project where I am dedicating 100 days to mastering <mark>Python</mark> programming, resulting in a diverse portfolio of <mark>Python</mark> applications and a deepened understanding of the language.
         description: |
-          I am currently in the midst of a 100-day <mark>Python</mark> programming journey, dedicating time every day to mastering Python concepts. This structured course covers everything from 'Hello World' to advanced topics, including web development, API integration, web scraping, and automation. Each day I'll be posting my code for these hands-on projects.  This experience will not only strengthen my proficiency in Python but also honing my ability to learn independently and adapt to new challenges, making it a pivotal chapter in my coding journey.
+          
+I successfully completed a 100-day Python programming challenge, dedicating time each day to mastering various Python concepts. The structured course covered everything from basic 'Hello World' programs to advanced topics, including web development, API integration, web scraping, and automation. I documented my progress by sharing the code for hands-on projects on a daily basis. This experience significantly enhanced my proficiency in Python and played a crucial role in developing my ability to learn independently and adapt to new challenges, marking a pivotal chapter in my coding journey.
       - layout: top-middle
         title: freeCodeCamp - Responsive Web Design
         link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
@@ -126,7 +127,7 @@ content:
         quote: >
           A comprehensive course focused on Python programming, covering fundamental concepts and advanced topics to enhance my skills and proficiency in the language.
         description: |
-          I successfully completed the IT244 course at Purdue University Global, where I gained a comprehensive understanding of <mark>Python</mark> programming. Throughout the course, I covered essential programming concepts, including variables, data types, decision making, operators, iteration, and data structures. Additionally, I explored advanced topics such as file management, security, classes, modules, and built-in tools in Python. Through hands-on exercises and projects, I developed a strong proficiency in Python programming, equipping me with the skills necessary for application in real-world scenarios.
+          I successfully completed the IT244 course at Purdue University Global, where I gained a comprehensive understanding of <mark>Python</mark> programming. Throughout the course, I covered essential programming concepts, including variables, data types, decision making, operators, iteration, and data structures. Additionally, I explored advanced topics such as file management, security, classes, modules, and built-in tools in <mark>Python</mark>. Through hands-on exercises and projects, I developed a strong proficiency in <mark>Python</mark> programming, equipping me with the skills necessary for application in real-world scenarios.
       - layout: top-middle
         title: Purdue University Global - IT232 - Software Design and Development Concepts
         link: https://github.com/Bradley-Kars/IT232_-_Software_Design_and_Development_Concepts
