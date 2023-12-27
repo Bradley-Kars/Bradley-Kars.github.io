@@ -108,9 +108,9 @@ content:
         link: https://github.com/Bradley-Kars/100_Days_of_Code_Python
         link_text: 100 Days of Coding - Python Project
         quote: >
-          An ambitious personal project where I am dedicating 100 days to mastering <mark>Python</mark> programming, resulting in a diverse portfolio of <mark>Python</mark> applications and a deepened understanding of the language.
+          An ambitious personal project where I am dedicating 100 days to mastering Python programming, resulting in a diverse portfolio of Python applications and a deepened understanding of the language.
         description: |
-          I successfully completed a 100-day Python programming challenge, dedicating time each day to mastering various Python concepts. The structured course covered everything from basic 'Hello World' programs to advanced topics, including web development, API integration, web scraping, and automation. I documented my progress by sharing the code for hands-on projects on a daily basis. This experience significantly enhanced my proficiency in Python and played a crucial role in developing my ability to learn independently and adapt to new challenges, marking a pivotal chapter in my coding journey.
+          I successfully completed a 100-day <mark>Python</mark> programming challenge, dedicating time each day to mastering various <mark>Python</mark> concepts. The structured course covered everything from basic 'Hello World' programs to advanced topics, including web development, API integration, web scraping, and automation. I documented my progress by sharing the code for hands-on projects on a daily basis. This experience significantly enhanced my proficiency in <mark>Python</mark> and played a crucial role in developing my ability to learn independently and adapt to new challenges, marking a pivotal chapter in my coding journey.
       - layout: top-middle
         title: freeCodeCamp - Responsive Web Design
         link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
