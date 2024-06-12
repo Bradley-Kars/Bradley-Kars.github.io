@@ -33,15 +33,25 @@ content:
     layout: list
     content:
       - layout: left
+        title: Artisight
+        link: 
+        link_text: 
+        sub_title: Support Engineer
+        caption: January 2024 - May 2024
+        quote: >
+          At Artisight, we’re passionate about improving the lives of clinicians and patients through technology.
+        description: |
+            During my time at Artisight, I worked as a Support Engineer, providing front-line technical assistance for our products and services. My responsibilities included debugging client network configurations, assisting with picture acquisition and storage solutions, and providing support for server components and client software. I engaged with colleagues to ensure that our clients received excellent support services using problem-solving and analytical skills. Embracing a dynamic and collaborative work atmosphere, I continuously sought out new learning opportunities, responding quickly to evolving issues to give effective answers.
+      - layout: left
         title: Computer Programs and Systems, Inc.
         link: https://www.cpsi.com/
         link_text: CPSI
         sub_title: IT Help Desk Support Specialist
-        caption: February 2023 - Present
+        caption: February 2023 - May 2024
         quote: >
           CPSI is committed to connecting communities, patients and providers to help you deliver the kind of care you want to deliver.
         description: |
-            At CPSI, I provide front-line technical support for applications and products in the healthcare market. My responsibilities include troubleshooting network setups and communications, supporting image acquisitions and storage, and assisting with server component and client software support. Utilizing problem-solving and analytical skills, I collaborate with team members to ensure top-notch support services for our clients. I embrace a flexible and collaborative work environment, continuously learning and adapting to new challenges to deliver effective solutions.
+            During my time at CPSI, I worked as a front-line Technical Support Specialist, focusing on healthcare-specific applications and solutions. In this capacity, I was in charge of debugging network configurations and communications, as well as assisting with image capture and storage solutions. In addition, I was responsible for servicing server components and client applications, ensuring that our clients' operations ran well. I aggressively engaged with my colleagues to preserve our commitment to providing high-quality support services, drawing on my problem-solving skills and analytical ability. Embracing a culture of flexibility and collaboration, I actively pursued learning opportunities, quickly adapting to new difficulties to give successful solutions.
       - layout: left
         title: CentralSquare Technologies
         link: https://www.centralsquare.com/
