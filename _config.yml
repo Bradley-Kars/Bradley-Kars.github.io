@@ -98,10 +98,16 @@ content:
     content:
       - layout: left
         title: Purdue University Global
-        caption: March 2022 - Present
-        sub_title: Bachelor of Science in Cybersecurity - Game Development
+        caption: December 2024 - November 2026
+        sub_title: Master's of Cybersecurity Management - Amazon Web Services (AWS) Cloud Technologies
         quote: >
           With a history of pioneering online education, Purdue Global’s mission is simple: deliver a fully personalized online learning experience that's tailored to the unique needs of working adults—one that gives them the support they need to achieve their goals and creates new opportunities for their future. While maintaining its image as part of the Renowned Purdue University System.
+        description: |
+          This upcoming journey will expand my expertise in Cybersecurity Management with a focus on AWS Cloud Technologies. The program is designed to deepen my leadership skills while providing specialized knowledge in securing and optimizing cloud infrastructure. I aim to further enhance my understanding of cybersecurity strategies in cloud environments, preparing to tackle emerging challenges in the industry.
+      - layout: left
+        title: Purdue University Global
+        caption: March 2022 - June 2024
+        sub_title: Bachelor of Science in Cybersecurity - Game Development
         description: |
           Throughout my Bachelor of Science journey, I am focusing on Cybersecurity to deepen my knowledge and skills in this field. Simultaneously, I am pursuing Game Development to gain a fresh perspective and enhance my coding abilities through immersive hands-on experience. Driven by this dual passion, I have consistently maintained a commendable 3.99 GPA, earning a well-deserved place on the Dean's list and setting the stage for graduating Magna Cum Laude.
       - layout: left
