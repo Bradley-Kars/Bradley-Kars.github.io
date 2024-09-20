@@ -39,7 +39,7 @@ content:
         sub_title: Technical Product Support Specialist (Contractor)
         caption: August 2024 - September 2024
         quote: >
-          Simplify the Exchange of Healthcare Data
+          Simplify the Exchange of Healthcare Data.
         description: |
             During my time as a contractor for Aesto Health, I was responsible for migrating client hospitals to our platform. This involved pulling backups from client systems and transferring them to our AWS buckets, then restoring the data to our SQL servers and performing thorough validation. In addition to managing these migrations, I ensured seamless onboarding by guiding clients through the setup process, troubleshooting any issues, and maintaining clear communication through daily updates and proactive follow-ups. I also assisted in testing and documenting new system features for upcoming releases, contributing to overall service quality improvement.
       - layout: left
