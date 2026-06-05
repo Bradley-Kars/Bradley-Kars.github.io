@@ -22,9 +22,9 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, I’m Bradley, a seasoned Systems Administrator and IT Infrastructure Specialist passionate about engineering robust, secure system frameworks and optimizing enterprise data environments[cite: 1]. Currently completing a Master of Science in Cybersecurity Management with a specialized focus on AWS Cloud Technologies, I combine hands-on infrastructure maintenance with hard-edged compliance standards like NIST and HIPAA[cite: 1]. Over nearly a decade in technical operations, I have orchestrated fluid migrations, engineered fault-tolerant backup methodologies, and systematically mitigated system vulnerabilities across diverse clinical and enterprise architectures[cite: 1].
+  Hi, I’m Bradley, a seasoned Systems Administrator and IT Infrastructure Specialist passionate about engineering robust, secure system frameworks and optimizing enterprise data environments. Currently completing a Master of Science in Cybersecurity Management with a specialized focus on AWS Cloud Technologies, I combine hands-on infrastructure maintenance with hard-edged compliance standards like NIST and HIPAA. Over nearly a decade in technical operations, I have orchestrated fluid migrations, engineered fault-tolerant backup methodologies, and systematically mitigated system vulnerabilities across diverse clinical and enterprise architectures.
 
-  I am most skilled in: <mark>Systems Administration</mark>, <mark>Cybersecurity Operations</mark>, and <mark>Cloud Migrations (AWS)</mark>[cite: 1]
+  I am most skilled in: <mark>Systems Administration</mark>, <mark>Cybersecurity Operations</mark>, and <mark>Cloud Migrations (AWS)</mark>
 
 content:
   - title: Experience
@@ -39,7 +39,7 @@ content:
         quote: >
           Simplify the Exchange of Healthcare Data.
         description: |
-          Engineered and executed secure cloud migrations, orchestrating SQL Server database transfers from on-premise clinical architecture to AWS hosting frameworks[cite: 1]. Enforced 100% data fidelity and Zero-Loss preservation parameters across highly critical patient data pipelines utilizing systematic validation checks[cite: 1]. Leveraged advanced knowledge of legacy healthcare database topologies to dramatically optimize client offboarding lifecycles and timelines while maintaining rigorous adherence to strict HIPAA regulations[cite: 1].
+          Engineered and executed secure cloud migrations, orchestrating SQL Server database transfers from on-premise clinical architecture to AWS hosting frameworks. Enforced 100% data fidelity and Zero-Loss preservation parameters across highly critical patient data pipelines utilizing systematic validation checks. Leveraged advanced knowledge of legacy healthcare database topologies to dramatically optimize client offboarding lifecycles and timelines while maintaining rigorous adherence to strict HIPAA regulations.
       - layout: left
         title: Artisight
         link: https://artisight.com/
@@ -49,7 +49,7 @@ content:
         quote: >
           At Artisight, we’re passionate about improving the lives of clinicians and patients through technology.
         description: |
-          Selected for a targeted technical support contract to maintain high-priority weekend infrastructure and application diagnostics for critical healthcare accounts[cite: 1]. Diagnosed and systematically mitigated complex client network configuration issues using log-based system analysis techniques[cite: 1]. Partnered closely with DevOps and engineering structures to escalate complex anomalies, engineering permanent remediations and authoring comprehensive SOP knowledge base articles to improve internal dispatch velocities[cite: 1].
+          Selected for a targeted technical support contract to maintain high-priority weekend infrastructure and application diagnostics for critical healthcare accounts. Diagnosed and systematically mitigated complex client network configuration issues using log-based system analysis techniques. Partnered closely with DevOps and engineering structures to escalate complex anomalies, engineering permanent remediations and authoring comprehensive SOP knowledge base articles to improve internal dispatch velocities.
       - layout: left
         title: Computer Programs and Systems, Inc.
         link: https://www.cpsi.com/
@@ -59,7 +59,7 @@ content:
         quote: >
           CPSI is committed to connecting communities, patients and providers to help you deliver the kind of care you want to deliver.
         description: |
-          Administered corporate-grade Linux and Windows Server environments, performing clean installations, configurations, and rapid security alert responses in compliance with healthcare SLAs[cite: 1]. Supported mission-critical healthcare applications including Evident EHR systems, Apache web services, and Terminal Server/VDI infrastructures[cite: 1]. Managed the complete technical ticket lifecycle, resolving escalated queries and partnering cross-functionally with development teams to implement permanent system solutions[cite: 1].
+          Administered corporate-grade Linux and Windows Server environments, performing clean installations, configurations, and rapid security alert responses in compliance with healthcare SLAs. Supported mission-critical healthcare applications including Evident EHR systems, Apache web services, and Terminal Server/VDI infrastructures. Managed the complete technical ticket lifecycle, resolving escalated queries and partnering cross-functionally with development teams to implement permanent system solutions.
       - layout: left
         title: CentralSquare Technologies
         link: https://www.centralsquare.com/
@@ -69,7 +69,7 @@ content:
         quote: >
           Creating the broadest, smartest and most agile software platform for building safer, smarter communities.
         description: |
-          Resolved over 1,000 service tickets through the full lifecycle, providing high-tier support for Windows, Office 365, mobile endpoints, and cloud-based VMs[cite: 1]. Deployed and configured client hardware/software, establishing desktop imaging procedures, secure antivirus deployment profiles, and user permission hierarchies within Active Directory[cite: 1]. Monitored hardware infrastructure and system availability metrics to mitigate downtime during high-priority alerts[cite: 1].
+          Resolved over 1,000 service tickets through the full lifecycle, providing high-tier support for Windows, Office 365, mobile endpoints, and cloud-based VMs. Deployed and configured client hardware/software, establishing desktop imaging procedures, secure antivirus deployment profiles, and user permission hierarchies within Active Directory. Monitored hardware infrastructure and system availability metrics to mitigate downtime during high-priority alerts.
       - layout: left
         title: Kars Customs
         link: 
@@ -79,7 +79,7 @@ content:
         quote: >
           Aiming to make your life easier by providing support and a knowledge base for your technological needs.
         description: |
-          Founded and operated an independent IT support business delivering custom enterprise desktop and server configurations, client hardware restorations, and comprehensive software troubleshooting[cite: 1]. Advised business and residential accounts on optimal infrastructure components for performance, localized networking reliability, and hardware security baseline implementations[cite: 1].
+          Founded and operated an independent IT support business delivering custom enterprise desktop and server configurations, client hardware restorations, and comprehensive software troubleshooting. Advised business and residential accounts on optimal infrastructure components for performance, localized networking reliability, and hardware security baseline implementations.
       - layout: left
         title: MarketSource Inc.
         link: https://www.marketsource.com/
@@ -89,7 +89,7 @@ content:
         quote: >
           Technologists committed to making Target America's easiest, safest, and most joyful place to shop and work.
         description: |
-          Led a technology-focused sales and support team within a fast-paced retail environment, orchestrating training pathways for technical associates and managing vendor tracking metrics[cite: 1]. Provided consultation, performance diagnostics, and network troubleshooting for client mobile hardware deployments[cite: 1].
+          Led a technology-focused sales and support team within a fast-paced retail environment, orchestrating training pathways for technical associates and managing vendor tracking metrics. Provided consultation, performance diagnostics, and network troubleshooting for client mobile hardware deployments.
       - layout: left
         title: ESCO Services LLC
         link: 
@@ -99,7 +99,7 @@ content:
         quote: >
           Leaders in quality construction and innovation.
         description: |
-          Managed complete internal IT infrastructure and provided direct technical desktop support, optimizing hardware devices, core computer systems, and custom software configurations to ensure corporate network reliability[cite: 1]. Developed project estimates and managed concurrent deployment budgets simultaneously under tight structural deadlines[cite: 1].
+          Managed complete internal IT infrastructure and provided direct technical desktop support, optimizing hardware devices, core computer systems, and custom software configurations to ensure corporate network reliability. Developed project estimates and managed concurrent deployment budgets simultaneously under tight structural deadlines.
 
   - title: Education
     layout: list
@@ -111,17 +111,17 @@ content:
         quote: >
           Advanced training focused on standardizing cloud network compliance architectures, enterprise asset risk analysis, and strategic cyber policy management.
         description: |
-          This advanced curriculum deepens my technical mastery of AWS Cloud Infrastructure security engineering and governance frameworks[cite: 1]. The program focuses explicitly on aligning modern corporate asset spaces with NIST risk paradigms to handle emerging enterprise infrastructure threats[cite: 1].
+          This advanced curriculum deepens my technical mastery of AWS Cloud Infrastructure security engineering and governance frameworks. The program focuses explicitly on aligning modern corporate asset spaces with NIST risk paradigms to handle emerging enterprise infrastructure threats.
       - layout: left
         caption: March 2022 - June 2024
         sub_title: Bachelor of Science in Cybersecurity - Game Development
         description: |
-          Focused comprehensively on system hardening mechanics, penetration testing, and rapid incident response patterns[cite: 1]. Maintained a 3.99 GPA, resulting in consistent placement on the academic honors registry and graduating with high distinction honors.
+          Focused comprehensively on system hardening mechanics, penetration testing, and rapid incident response patterns. Maintained a 3.99 GPA, resulting in consistent placement on the academic honors registry and graduating with high distinction honors.
       - layout: left
         caption: October 2020 – January 2022
         sub_title: Associate of Science in Information Technology
         description: |
-          Maintained a perfect 4.00 cumulative GPA, earning a permanent place on the Chancellor's List while establishing structural core competencies in managing complex infrastructure operations, user directory access frameworks, and localized networking routing[cite: 1].
+          Maintained a perfect 4.00 cumulative GPA, earning a permanent place on the Chancellor's List while establishing structural core competencies in managing complex infrastructure operations, user directory access frameworks, and localized networking routing.
 
   - title: Coding Portfolio
     layout: list
@@ -227,11 +227,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my core focus areas in <mark>Cyber Security Operations</mark>, <mark>System Administration</mark>, and <mark>Cloud Infrastructure (AWS)</mark>, some of my other primary technical pursuits and enthusiast hobbies include[cite: 1]:
-      - Designing and provisioning enthusiast computational hardware and bare-metal rigs[cite: 1]
-      - Troubleshooting and optimizing localized Linux/Unix home lab virtualization nodes[cite: 1]
-      - Independent video game mechanics rendering and digital editing[cite: 1]
-      - Maintaining automated hardware metrics deployment trackers[cite: 1]
+      Alongside my core focus areas in <mark>Cyber Security Operations</mark>, <mark>System Administration</mark>, and <mark>Cloud Infrastructure (AWS)</mark>, some of my other primary technical pursuits and enthusiast hobbies include:
+      - Designing and provisioning enthusiast computational hardware and bare-metal rigs
+      - Troubleshooting and optimizing localized Linux/Unix home lab virtualization nodes
+      - Independent video game mechanics rendering and digital editing
+      - Maintaining automated hardware metrics deployment trackers
 
 # Footer
 footer_show_references: true
