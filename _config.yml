@@ -3,16 +3,15 @@ version: 2
 
 # Personal info
 name: Bradley Kars
-title: System Support Specialist
+title: Systems Administrator & IT Specialist
 email: Bradley.Kars@proton.me
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links 
-# github_username:  Bradley-Kars
-# stackoverflow_username: 
-# linkedin_username: bradley-kars
+github_username: Bradley-Kars
+linkedin_username: bradley-kars
 
 # Additional icon links
 additional_links:
@@ -21,12 +20,11 @@ additional_links:
    url: https://bio.link/bradley_kars
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, I’m Bradley, a driven professional with a passion for education and technology. I have a proven history of co-founding a national student empowerment organization and overseeing IT operations for various commercial companies. Currently, I’m pursuing a Master’s degree in Cybersecurity Management with a focus on AWS. As a System Support Specialist, I’ve led multiple projects to successful completion while managing day-to-day operations and troubleshooting complex technical issues, particularly in backup management. My diverse experience in education, IT management, and cybersecurity equips me with strong problem-solving, leadership, and technical skills, all of which contribute to advancing the IT field.
+  Hi, I’m Bradley, a seasoned Systems Administrator and IT Infrastructure Specialist passionate about engineering robust, secure system frameworks and optimizing enterprise data environments[cite: 1]. Currently completing a Master of Science in Cybersecurity Management with a specialized focus on AWS Cloud Technologies, I combine hands-on infrastructure maintenance with hard-edged compliance standards like NIST and HIPAA[cite: 1]. Over nearly a decade in technical operations, I have orchestrated fluid migrations, engineered fault-tolerant backup methodologies, and systematically mitigated system vulnerabilities across diverse clinical and enterprise architectures[cite: 1].
 
-  I am most skilled in: <mark>System Support</mark> and <mark>Hardware Diagnostics</mark>
+  I am most skilled in: <mark>Systems Administration</mark>, <mark>Cybersecurity Operations</mark>, and <mark>Cloud Migrations (AWS)</mark>[cite: 1]
 
 content:
   - title: Experience
@@ -36,42 +34,42 @@ content:
         title: Aesto Health
         link: https://aestohealth.com/
         link_text: Aesto
-        sub_title: Technical Product Support Specialist (Contractor)
+        sub_title: Technical Support Specialist
         caption: August 2024 - August 2025
         quote: >
           Simplify the Exchange of Healthcare Data.
         description: |
-            During my time as a contractor for Aesto Health, I have been responsible for migrating client hospitals to our platform. This involves pulling backups from client systems and transferring them to our AWS buckets, then restoring the data to our SQL servers and performing thorough validation. In addition to managing these migrations, I ensured seamless onboarding by going through the setup process, troubleshooting any issues, and maintaining clear communication through daily updates and proactive follow-ups. I also assisted in testing and documenting new system features for upcoming releases, contributing to overall service quality improvement.
+          Engineered and executed secure cloud migrations, orchestrating SQL Server database transfers from on-premise clinical architecture to AWS hosting frameworks[cite: 1]. Enforced 100% data fidelity and Zero-Loss preservation parameters across highly critical patient data pipelines utilizing systematic validation checks[cite: 1]. Leveraged advanced knowledge of legacy healthcare database topologies to dramatically optimize client offboarding lifecycles and timelines while maintaining rigorous adherence to strict HIPAA regulations[cite: 1].
       - layout: left
         title: Artisight
         link: https://artisight.com/
         link_text: Artisight
         sub_title: Support Engineer
-        caption: January 2024 - May 2024
+        caption: January 2024 - June 2024
         quote: >
           At Artisight, we’re passionate about improving the lives of clinicians and patients through technology.
         description: |
-            During my time at Artisight, I worked as a Support Engineer, providing front-line technical assistance for our products and services. My responsibilities included debugging client network configurations, assisting with picture acquisition and storage solutions, and providing support for server components and client software. I engaged with colleagues to ensure that our clients received excellent support services using problem-solving and analytical skills. Embracing a dynamic and collaborative work atmosphere, I continuously sought out new learning opportunities, responding quickly to evolving issues to give effective answers.
+          Selected for a targeted technical support contract to maintain high-priority weekend infrastructure and application diagnostics for critical healthcare accounts[cite: 1]. Diagnosed and systematically mitigated complex client network configuration issues using log-based system analysis techniques[cite: 1]. Partnered closely with DevOps and engineering structures to escalate complex anomalies, engineering permanent remediations and authoring comprehensive SOP knowledge base articles to improve internal dispatch velocities[cite: 1].
       - layout: left
         title: Computer Programs and Systems, Inc.
         link: https://www.cpsi.com/
         link_text: CPSI
         sub_title: IT Help Desk Support Specialist
-        caption: February 2023 - May 2024
+        caption: February 2023 - June 2024
         quote: >
           CPSI is committed to connecting communities, patients and providers to help you deliver the kind of care you want to deliver.
         description: |
-            During my time at CPSI, I worked as a front-line Technical Support Specialist, focusing on healthcare-specific applications and solutions. In this capacity, I was in charge of debugging network configurations and communications, as well as assisting with image capture and storage solutions. In addition, I was responsible for servicing server components and client applications, ensuring that our clients' operations ran well. I aggressively engaged with my colleagues to preserve our commitment to providing high-quality support services, drawing on my problem-solving skills and analytical ability. Embracing a culture of flexibility and collaboration, I actively pursued learning opportunities, quickly adapting to new difficulties to give successful solutions.
+          Administered corporate-grade Linux and Windows Server environments, performing clean installations, configurations, and rapid security alert responses in compliance with healthcare SLAs[cite: 1]. Supported mission-critical healthcare applications including Evident EHR systems, Apache web services, and Terminal Server/VDI infrastructures[cite: 1]. Managed the complete technical ticket lifecycle, resolving escalated queries and partnering cross-functionally with development teams to implement permanent system solutions[cite: 1].
       - layout: left
         title: CentralSquare Technologies
         link: https://www.centralsquare.com/
         link_text: CST
-        sub_title: System Support Specialist Intern
+        sub_title: System Support Specialist
         caption: March 2022 - February 2023
         quote: >
           Creating the broadest, smartest and most agile software platform for building safer, smarter communities.
         description: |
-            At CST, I played a crucial role in supporting CentralSquare’s systems and ensuring seamless connectivity throughout the company. Working closely with individuals from all departments, I was dedicated to maintaining the smooth operation of their systems and addressing any technical issues that arose. From implementing and configuring PC/Network systems to providing timely support and resolving problems, I actively contributed to the efficient functioning of CentralSquare’s technology infrastructure. Additionally, I assisted with various tasks, including pre-imaging machines, supporting the Service Desk, handling service desk cases, assisting with employee moves, and managing cable connections. Through my efforts, I aimed to enhance productivity and contribute to the overall success of CentralSquare.
+          Resolved over 1,000 service tickets through the full lifecycle, providing high-tier support for Windows, Office 365, mobile endpoints, and cloud-based VMs[cite: 1]. Deployed and configured client hardware/software, establishing desktop imaging procedures, secure antivirus deployment profiles, and user permission hierarchies within Active Directory[cite: 1]. Monitored hardware infrastructure and system availability metrics to mitigate downtime during high-priority alerts[cite: 1].
       - layout: left
         title: Kars Customs
         link: 
@@ -81,17 +79,17 @@ content:
         quote: >
           Aiming to make your life easier by providing support and a knowledge base for your technological needs.
         description: |
-            As an Owner/Lead Repair Tech at Kars Customs, I served as a reliable and knowledgeable guide for customers at every stage of their technology journey. From assisting them in making informed purchases to ensuring they received the best deals available, I was committed to delivering exceptional service. Additionally, I provided ongoing support to customers, ensuring their devices operated smoothly and addressing any concerns or issues they encountered. With a deep understanding of technology and its potential to simplify and enhance lives, my ultimate goal was to empower customers by making technology work seamlessly for them. It was my pleasure to contribute to a positive customer experience and help individuals harness the full potential of their devices.
+          Founded and operated an independent IT support business delivering custom enterprise desktop and server configurations, client hardware restorations, and comprehensive software troubleshooting[cite: 1]. Advised business and residential accounts on optimal infrastructure components for performance, localized networking reliability, and hardware security baseline implementations[cite: 1].
       - layout: left
         title: MarketSource Inc.
         link: https://www.marketsource.com/
         link_text: MarketSource
-        sub_title: Sales Associate → Team Lead
-        caption: July 2018 - November 2019 → November 2019 - March 2020
+        sub_title: Store Team Lead
+        caption: November 2019 - March 2020
         quote: >
           Technologists committed to making Target America's easiest, safest, and most joyful place to shop and work.
         description: |
-            During my time at MarketSource, I served as both a Sales Associate and a Team Lead, assisting Target customers with their cellular device needs. I prioritized providing exceptional service by guiding customers through informed purchases and ensuring their devices aligned with their requirements. Personalized guidance based on their preferences, budgets, and usage needs allowed me to recommend the most suitable devices and plans. Additionally, I offered ongoing support for device maintenance, troubleshooting, and communication with carriers. My dedication to delivering excellent customer experiences resulted in consistently exceeding expectations and fostering high levels of satisfaction. This experience equipped me with a deep understanding of the cellular device industry and a strong passion for delivering exceptional customer service.
+          Led a technology-focused sales and support team within a fast-paced retail environment, orchestrating training pathways for technical associates and managing vendor tracking metrics[cite: 1]. Provided consultation, performance diagnostics, and network troubleshooting for client mobile hardware deployments[cite: 1].
       - layout: left
         title: ESCO Services LLC
         link: 
@@ -101,29 +99,29 @@ content:
         quote: >
           Leaders in quality construction and innovation.
         description: |
-            At ESCO Services LLC, I played a crucial role in supporting the IT needs of the company. I recognized the importance of IT in various industries, including the construction industry, where even small businesses require technology to be maintained and systems to be optimized. I took responsibility for ensuring the smooth operation of devices, computer systems, and software configurations. By effectively managing IT infrastructure and providing technical support, I contributed to the overall efficiency and productivity of the organization. My dedication to maintaining reliable IT systems allowed other employees to focus on their core responsibilities, resulting in improved workflow and successful project outcomes.
+          Managed complete internal IT infrastructure and provided direct technical desktop support, optimizing hardware devices, core computer systems, and custom software configurations to ensure corporate network reliability[cite: 1]. Developed project estimates and managed concurrent deployment budgets simultaneously under tight structural deadlines[cite: 1].
 
   - title: Education
     layout: list
     content:
       - layout: left
         title: Purdue University Global
-        caption: December 2024 - November 2026
-        sub_title: Master's of Cybersecurity Management - Amazon Web Services (AWS) Cloud Technologies
+        caption: December 2024 - January 2027 (Expected)
+        sub_title: Master of Science in Cybersecurity Management – AWS Cloud Technologies
         quote: >
-          With a history of pioneering online education, Purdue Global’s mission is simple: deliver a fully personalized online learning experience that's tailored to the unique needs of working adults—one that gives them the support they need to achieve their goals and creates new opportunities for their future. While maintaining its image as part of the Renowned Purdue University System.
+          Advanced training focused on standardizing cloud network compliance architectures, enterprise asset risk analysis, and strategic cyber policy management.
         description: |
-          This upcoming journey will expand my expertise in Cybersecurity Management with a focus on AWS Cloud Technologies. The program is designed to deepen my leadership skills while providing specialized knowledge in securing and optimizing cloud infrastructure. I aim to further enhance my understanding of cybersecurity strategies in cloud environments, preparing to tackle emerging challenges in the industry.
+          This advanced curriculum deepens my technical mastery of AWS Cloud Infrastructure security engineering and governance frameworks[cite: 1]. The program focuses explicitly on aligning modern corporate asset spaces with NIST risk paradigms to handle emerging enterprise infrastructure threats[cite: 1].
       - layout: left
         caption: March 2022 - June 2024
         sub_title: Bachelor of Science in Cybersecurity - Game Development
         description: |
-          Throughout my Bachelor of Science journey, I am focusing on Cybersecurity to deepen my knowledge and skills in this field. Simultaneously, I am pursuing Game Development to gain a fresh perspective and enhance my coding abilities through immersive hands-on experience. Driven by this dual passion, I have consistently maintained a commendable 3.99 GPA, earning a well-deserved place on the Dean's list and setting the stage for graduating Magna Cum Laude.
+          Focused comprehensively on system hardening mechanics, penetration testing, and rapid incident response patterns[cite: 1]. Maintained a 3.99 GPA, resulting in consistent placement on the academic honors registry and graduating with high distinction honors.
       - layout: left
         caption: October 2020 – January 2022
-        sub_title: Associate of Applied Science in Information Technology - IT Generalist
+        sub_title: Associate of Science in Information Technology
         description: |
-          During my pursuit of an Associate of Applied Science in Information Technology - IT Generalist, I maintained a consistent 4.00 GPA, earning a place on the Chancellor's list. Graduating with the highest honors of summa cum laude, this achievement demonstrates my dedication and commitment to academic excellence throughout my studies. It reflects my strong drive to acquire the essential skills and knowledge necessary for effectively supporting and managing complex IT infrastructures.
+          Maintained a perfect 4.00 cumulative GPA, earning a permanent place on the Chancellor's List while establishing structural core competencies in managing complex infrastructure operations, user directory access frameworks, and localized networking routing[cite: 1].
 
   - title: Coding Portfolio
     layout: list
@@ -133,17 +131,17 @@ content:
         link: https://github.com/Bradley-Kars/100_Days_of_Code_Python
         link_text: 100 Days of Coding - Python Project
         quote: >
-          An ambitious personal project where I am dedicating 100 days to mastering Python programming, resulting in a diverse portfolio of Python applications and a deepened understanding of the language.
+          An ambitious personal project dedicating 100 days to mastering Python programming, resulting in a diverse portfolio of Python applications.
         description: |
-          I successfully completed a 100-day <mark>Python</mark> programming challenge, dedicating time each day to mastering various <mark>Python</mark> concepts. The structured course covered everything from basic 'Hello World' programs to advanced topics, including web development, API integration, web scraping, and automation. I documented my progress by sharing the code for hands-on projects on a daily basis. This experience significantly enhanced my proficiency in <mark>Python</mark> and played a crucial role in developing my ability to learn independently and adapt to new challenges, marking a pivotal chapter in my coding journey.
+          Successfully engineered a 100-day execution sprint focused on automated scripting, backend logic patterns, API integrations, web scraping pipelines, and advanced functional tasks using <mark>Python</mark>.
       - layout: top-middle
         title: freeCodeCamp - Responsive Web Design
         link: https://github.com/Bradley-Kars/freeCodeCamp_-_Responsive_Web_Design
         link_text: Responsive Web Design
         quote: >
-          An immersive certification program that deepened my knowledge of HTML and CSS, empowering me to create visually captivating and user-friendly webpages while adhering to industry standards.
+          An immersive certification program that deepened my knowledge of HTML and CSS, empowering me to create user-friendly webpages while adhering to industry standards.
         description: |
-          I successfully completed the Responsive Web Design Certification on freeCodeCamp, gaining comprehensive knowledge and skills in <mark>HTML</mark> and <mark>CSS</mark>, the fundamental languages utilized in webpage development. The certification program provided hands-on training and practical exercises to strengthen my proficiency in web design and development. By completing various projects and assignments, I acquired expertise in creating visually appealing and user-friendly webpages while adhering to industry standards.
+          Acquired structural experience building responsive, user-accessible UI templates conforming natively to legacy browser limitations and modern semantic <mark>HTML</mark> and <mark>CSS</mark> grids.
       - layout: top-middle
         title: Purdue University Global - IT244 - Python Programming
         link: https://github.com/Bradley-Kars/IT244_-_Python_Programming
@@ -151,129 +149,92 @@ content:
         quote: >
           A comprehensive course focused on Python programming, covering fundamental concepts and advanced topics to enhance my skills and proficiency in the language.
         description: |
-          I successfully completed the IT244 course at Purdue University Global, where I gained a comprehensive understanding of <mark>Python</mark> programming. Throughout the course, I covered essential programming concepts, including variables, data types, decision making, operators, iteration, and data structures. Additionally, I explored advanced topics such as file management, security, classes, modules, and built-in tools in <mark>Python</mark>. Through hands-on exercises and projects, I developed a strong proficiency in <mark>Python</mark> programming, equipping me with the skills necessary for application in real-world scenarios.
+          Completed complex real-world coursework spanning structural OOP variables, secure file management streams, custom modules, data structure arrays, and built-in automation routines utilizing <mark>Python</mark>.
       - layout: top-middle
         title: Purdue University Global - IT232 - Software Design and Development Concepts
         link: https://github.com/Bradley-Kars/IT232_-_Software_Design_and_Development_Concepts
         link_text: C# Programming
         quote: >
-          A transformative course that expanded my software design and development capabilities, empowering me to create robust applications while applying universal programming concepts with proficiency.
+          A transformative course that expanded my software design capabilities, empowering me to create robust applications while applying universal programming concepts.
         description: |
-          In the IT232 course at Purdue University Global, I advanced my knowledge in software design and development concepts. The course provided an intermediate-level exploration of various implementation methods while emphasizing the universal nature of design and programming principles. I gained practical experience in applying software design techniques, utilizing software process models, understanding object-oriented programming concepts, and implementing secure data-handling techniques. By developing, debugging, and testing intermediate-level applications using <mark>C#</mark>, my chosen programming language, I acquired hands-on expertise in designing robust and secure software solutions. This course equipped me with valuable skills and knowledge to excel in software development, enabling me to confidently apply industry-standard practices in real-world projects.
+          Advanced my practical knowledge of software lifecycle models, multi-level debugging paths, object-oriented parameters, and clean application logic frameworks utilizing <mark>C#</mark>.
       - layout: top-middle
         title: Purdue University Global - IT213 - Software Development Concepts
         link: https://github.com/Bradley-Kars/IT213_-_Software_Development_Concepts
         link_text: Software Development Concepts
         quote: >
-          An exciting journey into the world of coding, where I experienced my first-ever encounter with a comprehensive programming language and laying the foundation for future explorations in software development.
+          An exciting journey into the world of coding, discovering fundamental software engineering principles applicable across multiple programming environments.
         description: |
-          In the IT213 course at Purdue University Global, I gained a comprehensive understanding of software development concepts. The course provided a solid foundation in software engineering by exploring fundamental principles applicable across multiple programming languages. Through practical exercises and projects, I designed, developed, debugged, and tested simple applications using <mark>C#</mark>, my chosen programming language for the course. This hands-on experience deepened my knowledge of software development and equipped me with valuable skills in applying programming concepts to real-world scenarios.
+          Gained fundamental software engineering paradigms by structuring, unit testing, and refining introductory client-side desktop utilities inside the <mark>C#</mark> ecosystem.
       - layout: top-middle
         title: Purdue University Global - IT117 - Website Development
         link: https://github.com/Bradley-Kars/IT117_-_Website_Development
         link_text: Website Development
         quote: >
-          The first website I ever created; it may not be perfect but it's a start.
+          An immersive entry into responsive internet technologies, exploring foundational styling architectures and standard internet communication protocols.
         description: |
-          In the IT117 course at Purdue University Global, I explored internet technologies and acquired a strong foundation in website development. The course focused on web page design and provided hands-on experience in using <mark>HTML</mark>, <mark>HTML5</mark>, and <mark>CSS</mark>  to create visually appealing and interactive websites. Through practical projects and assignments, I developed the skills required to design and build websites that meet modern standards. Additionally, the course emphasized self-promotion and showcasing my abilities to a wider audience through web-based platforms. This course equipped me with the knowledge and skills necessary to create compelling websites and effectively demonstrate my expertise in website development.
+          Explored internet technologies and acquired a strong foundation in website development using <mark>HTML</mark>, <mark>HTML5</mark>, and <mark>CSS</mark> to build structured, interactive, and cleanly accessible multi-page interface environments.
 
   - title: Certifications
     layout: text
     content: |
-      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
-        <u>Purdue University Global</u>
-        <br>
-        <a href="https://www.parchment.com/u/award/7f833105d604f96c49304a0173387079" target="_blank" class="certs" style="box-sizing: border-box;">
-          <img src="/images/Bachelors.jpg" style="width: 100%; border: 6px solid white;">
-        </a>
-        <a href="https://www.credential.net/6f8b31ed-9c8c-4201-bbf4-abf1f6b2b84d" target="_blank" class="certs" style="box-sizing: border-box;">
-          <img src="/images/Purdue-University-Global-e-Diploma.jpg" style="width: 100%; border: 6px solid white;">
-        </a>
-      </p>
-      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
-        <u>Google</u>
-        <br>
-        <style>
-            @media screen and (max-width: 767px) {
-                .certs, .badges {
-                    width: 100%;
-                }
-                .badges img {
-                    width: 100%;
-                }
-            }
-            @media screen and (min-width: 768px) {
-                .certs {
-                    width: 100%;
-                }
-                .subcerts {
-                    width: 20%;
-                }
-                .badges {
-                    width: 33.33%;
-                }
-                .badges img {
-                    width: 100%;
-                }
-            }
-        </style>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-          <a href="https://www.coursera.org/account/accomplishments/specialization/SVPNDGLLQX3X" target="_blank" class="certs" style="box-sizing: border-box;">
-            <img src="/images/Google-IT-Support.jpg" alt="Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
+      <div style="font-family:'Roboto', sans-serif; font-weight:300; font-size:1.8rem; text-align:center; margin-bottom:20px; color:#ffffff;">
+        <u>Purdue University Global Academic Records</u>
+        <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 15px;">
+          <a href="https://www.parchment.com/u/award/7f833105d604f96c49304a0173387079" target="_blank" style="flex: 1 1 280px; max-width: 100%; box-sizing: border-box;">
+            <img src="/images/Bachelors.jpg" style="width: 100%; border: 6px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
           </a>
-          <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank" class="subcerts" style="box-sizing: border-box;">
-            <img src="/images/Technical-Support-Fundamentals.jpg" alt="Technical Support Fundamentals certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
-          </a>
-          <a href="https://coursera.org/verify/X7QN8BQEE226" target="_blank" class="subcerts" style="box-sizing: border-box;">
-            <img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" alt="The Bits and Bytes of Computer Networking certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
-          </a>
-          <a href="https://www.coursera.org/verify/C7VFPZ2KW43L" target="_blank" class="subcerts" style="box-sizing: border-box;">
-            <img src="/images/Operating-Systems-and-You-Becoming-a-Power-User.jpg" alt="Operating Systems and You: Becoming a Power User certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
-          </a>
-          <a href="https://www.coursera.org/verify/KHEMEC538SZH" target="_blank" class="subcerts" style="box-sizing: border-box;">
-            <img src="/images/System-Administration-and-IT-Infrastructure.jpg" alt="System Administration and IT Infrastructure Services certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
-          </a>
-          <a href="https://www.coursera.org/verify/E84SQAGPPD6U" target="_blank" class="subcerts" style="box-sizing: border-box;">
-            <img src="/images/IT-Security-Defense-against-the-digital-dark-arts.jpg" alt="IT Security: Defense against the digital dark arts certificate from Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white;">
+          <a href="https://www.credential.net/6f8b31ed-9c8c-4201-bbf4-abf1f6b2b84d" target="_blank" style="flex: 1 1 280px; max-width: 100%; box-sizing: border-box;">
+            <img src="/images/Purdue-University-Global-e-Diploma.jpg" style="width: 100%; border: 6px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
           </a>
         </div>
-      </p>
-      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
-        <u>freeCodeCamp</u>
-        <br>
-        <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank" class="certs" style="box-sizing: border-box;">
-          <img src="/images/Responsive-Web-Design.jpg" style="width: 100%; border: 6px solid white;">
-        </a>
-      </p>
-      <p style="font-family:Roboto, sans-serif;font-weight:300;font-size:2.25rem;text-align:center">
-        <u>Badges</u>
-        <br>
-        <div style="display: flex; justify-content: center;">
-          <a href="https://www.credential.net/2119e260-1078-481e-8e09-b0179e9d5808#gs.fhmy3g" target="_blank" class="badges" style="box-sizing: border-box;">
-            <img src="/images/IT-Fundamentals-Micro-credential.png" alt="IT Fundamentals Micro-credential">
+      </div>
+
+      <div style="font-family:'Roboto', sans-serif; font-weight:300; font-size:1.8rem; text-align:center; margin-top:40px; color:#ffffff;">
+        <u>Google IT Support Professional Suite</u>
+        <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 15px;">
+          <a href="https://www.coursera.org/account/accomplishments/specialization/SVPNDGLLQX3X" target="_blank" style="width: 100%; max-width: 580px; margin-bottom: 10px; box-sizing: border-box;">
+            <img src="/images/Google-IT-Support.jpg" alt="Google IT Support Professional Certificate" style="width: 100%; border: 6px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
           </a>
-          <a href="https://www.credly.com/badges/392f6244-7054-4d3c-8c97-d1869e6b614f" target="_blank" class="badges" style="box-sizing: border-box;">
-            <img src="/images/Cybersecurity-Fundamentals-Micro-credential.png" alt="Cybersecurity Fundamentals Micro-credential">
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; width: 100%;">
+            <a href="https://coursera.org/verify/WD9JVS6EEER2" target="_blank" style="flex: 1 1 130px; max-width: 160px; box-sizing: border-box;"><img src="/images/Technical-Support-Fundamentals.jpg" style="width: 100%; border: 4px solid white;"></a>
+            <a href="https://coursera.org/verify/X7QN8BQEE226" target="_blank" style="flex: 1 1 130px; max-width: 160px; box-sizing: border-box;"><img src="/images/The-Bits-and-Bytes-of-Computer-Networking.jpg" style="width: 100%; border: 4px solid white;"></a>
+            <a href="https://www.coursera.org/verify/C7VFPZ2KW43L" target="_blank" style="flex: 1 1 130px; max-width: 160px; box-sizing: border-box;"><img src="/images/Operating-Systems-and-You-Becoming-a-Power-User.jpg" style="width: 100%; border: 4px solid white;"></a>
+            <a href="https://www.coursera.org/verify/KHEMEC538SZH" target="_blank" style="flex: 1 1 130px; max-width: 160px; box-sizing: border-box;"><img src="/images/System-Administration-and-IT-Infrastructure.jpg" style="width: 100%; border: 4px solid white;"></a>
+            <a href="https://www.coursera.org/verify/E84SQAGPPD6U" target="_blank" style="flex: 1 1 130px; max-width: 160px; box-sizing: border-box;"><img src="/images/IT-Security-Defense-against-the-digital-dark-arts.jpg" style="width: 100%; border: 4px solid white;"></a>
+          </div>
+        </div>
+      </div>
+
+      <div style="font-family:'Roboto', sans-serif; font-weight:300; font-size:1.8rem; text-align:center; margin-top:40px; color:#ffffff;">
+        <u>Verified Digital Badges &amp; Credentials</u>
+        <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 15px;">
+          <a href="https://www.credential.net/2119e260-1078-481e-8e09-b0179e9d5808#gs.fhmy3g" target="_blank" style="flex: 1 1 110px; max-width: 130px; box-sizing: border-box;">
+            <img src="/images/IT-Fundamentals-Micro-credential.png" alt="IT Fundamentals Micro-credential" style="width: 100%;">
           </a>
-          <a href="https://www.credly.com/badges/682b53d3-8242-4e30-92cb-fc526e6bf296" target="_blank" class="badges" style="box-sizing: border-box;">
-            <img src="/images/Google-IT-Support-Badge.png" alt="Google IT Support Badge">
+          <a href="https://www.credly.com/badges/392f6244-7054-4d3c-8c97-d1869e6b614f" target="_blank" style="flex: 1 1 110px; max-width: 130px; box-sizing: border-box;">
+            <img src="/images/Cybersecurity-Fundamentals-Micro-credential.png" alt="Cybersecurity Fundamentals Micro-credential" style="width: 100%;">
+          </a>
+          <a href="https://www.credly.com/badges/682b53d3-8242-4e30-92cb-fc526e6bf296" target="_blank" style="flex: 1 1 110px; max-width: 130px; box-sizing: border-box;">
+            <img src="/images/Google-IT-Support-Badge.png" alt="Google IT Support Badge" style="width: 100%;">
+          </a>
+          <a href="https://www.freecodecamp.org/certification/Bradley-Kars/responsive-web-design" target="_blank" style="flex: 1 1 110px; max-width: 130px; box-sizing: border-box;">
+            <img src="/images/Responsive-Web-Design.jpg" alt="freeCodeCamp Certification" style="width: 100%; border: 4px solid white;">
           </a>
         </div>
-      </p>
+      </div>
 
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my interests in <mark>Cyber Security</mark>, <mark>Software Engineering</mark>, and <mark>System Support</mark> some of my other interests and hobbies are:
-      - Video game development
-      - Video editing
-      - Streaming
-      - Creating enthusiast computer builds
-      - Tinkering with my homelab
+      Alongside my core focus areas in <mark>Cyber Security Operations</mark>, <mark>System Administration</mark>, and <mark>Cloud Infrastructure (AWS)</mark>, some of my other primary technical pursuits and enthusiast hobbies include[cite: 1]:
+      - Designing and provisioning enthusiast computational hardware and bare-metal rigs[cite: 1]
+      - Troubleshooting and optimizing localized Linux/Unix home lab virtualization nodes[cite: 1]
+      - Independent video game mechanics rendering and digital editing[cite: 1]
+      - Maintaining automated hardware metrics deployment trackers[cite: 1]
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -284,4 +245,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
