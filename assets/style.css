@@ -537,3 +537,31 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   outline: 2px solid var(--teal);
   outline-offset: 2px;
 }
+
+/* ===== Additions: classes replacing inline styles, portfolio, links ===== */
+.lede { color: var(--muted); max-width: 620px; margin: 0 0 34px; font-size: 16px; }
+.contact-inner .lede { margin-bottom: 20px; }
+.about-inner p { color: var(--muted); margin-bottom: 14px; }
+.about-inner mark { background: none; color: var(--teal); font-weight: 600; }
+.check-list { list-style: none; display: flex; flex-direction: column; gap: 10px; color: var(--muted); font-size: 14.5px; }
+.check-list li { position: relative; padding-left: 18px; }
+.check-list li::before { content: ''; position: absolute; left: 0; top: 0.6em; width: 6px; height: 6px; border-radius: 50%; background: var(--teal); }
+.card.amber .check-list li::before { background: var(--amber); }
+.towns { color: var(--teal); font-size: 13px; line-height: 1.7; }
+.office-line { color: var(--off); font-size: 14px; margin-top: 10px; }
+.connect-label { color: var(--muted); font-size: 13px; }
+.connect-links { margin-top: 8px; gap: 22px; }
+.connect-links a { font-size: 15px; }
+.contact-method .v { overflow-wrap: anywhere; }
+
+a.card.project { display: block; transition: border-color 0.15s ease; }
+a.card.project:hover { border-color: var(--teal); }
+a.card.project.amber:hover { border-color: var(--amber); }
+.cert-grid a { display: block; }
+.cert-grid a:hover img { border-color: var(--teal); }
+.cert-grid img { transition: border-color 0.15s ease; }
+
+@media (prefers-reduced-motion: reduce) {
+  .pulse-dot { animation: none; }
+  html { scroll-behavior: auto; }
+}
