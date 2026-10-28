@@ -628,3 +628,60 @@ nav { gap: 24px; }
 
 /* hero alignment: fill the container so text lines up with the logo */
 .hero-inner { width: 100%; }
+
+/* ===== v3 ===== */
+/* hero two-column */
+.hero-inner { align-items: stretch; }
+.hero-grid { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.75fr); gap: 56px; align-items: center; width: 100%; }
+.hero-copy { display: flex; flex-direction: column; align-items: flex-start; }
+.glance { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; box-shadow: 0 30px 60px -30px rgba(0,0,0,0.6); }
+.glance-bar { display: flex; align-items: center; gap: 7px; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--panel-2); }
+.glance-bar span { width: 10px; height: 10px; border-radius: 50%; background: rgba(139,157,179,0.35); }
+.glance-bar span:first-child { background: var(--amber); } .glance-bar span:nth-child(2) { background: var(--teal); }
+.glance-bar em { font-style: normal; font-size: 12px; color: var(--muted); margin-left: 8px; }
+.glance-body { padding: 8px 20px 12px; font-size: 13px; }
+.glance-body > div { display: grid; grid-template-columns: 84px 1fr; gap: 12px; padding: 13px 0; border-bottom: 1px dashed var(--line); }
+.glance-body > div:last-child { border-bottom: none; }
+.glance-body dt { color: var(--teal); }
+.glance-body dd { color: var(--off); line-height: 1.5; }
+
+/* about: photo top-aligned with heading, larger */
+.about-inner { margin-top: 0; grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr); gap: 64px; align-items: start; }
+.about-inner .section-head { margin-bottom: 22px; }
+.about-inner .section-head p { max-width: none; margin-top: 14px; }
+.profile-img { max-width: 400px; margin-left: auto; position: sticky; top: 96px; margin-top: 6px; }
+
+/* experience entry reads as a normal job row */
+.job-head .org { margin-top: 2px; display: inline-block; }
+
+/* degrees and main Google cert fill the width */
+.cert-row-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.cert-feature { max-width: none; margin-bottom: 18px; }
+
+/* social tiles */
+.social-grid { display: grid; gap: 14px; grid-auto-rows: 1fr; height: 100%; }
+.contact-inner { align-items: stretch; }
+.social-tile { display: flex; align-items: center; gap: 22px; padding: 26px 28px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); position: relative; overflow: hidden; transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease; }
+.social-tile::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: linear-gradient(180deg, var(--teal), transparent); }
+.social-tile.amber::before { background: linear-gradient(180deg, var(--amber), transparent); }
+.social-tile:hover { transform: translateY(-2px); border-color: var(--teal); box-shadow: 0 14px 30px -14px rgba(45,212,191,0.35); }
+.social-tile.amber:hover { border-color: var(--amber); box-shadow: 0 14px 30px -14px rgba(245,166,35,0.35); }
+.social-icon { width: 60px; height: 60px; border-radius: 12px; background: var(--panel-2); color: var(--teal); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.social-tile.amber .social-icon { color: var(--amber); }
+.social-icon svg { width: 28px; height: 28px; }
+.social-text { display: flex; flex-direction: column; gap: 4px; flex: 1; min-width: 0; }
+.social-label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.1em; }
+.social-name { font-family: 'Space Grotesk', sans-serif; font-size: 22px; font-weight: 600; letter-spacing: -0.01em; }
+.social-arrow { width: 22px; height: 22px; color: var(--muted); flex-shrink: 0; transition: color 0.15s ease, transform 0.15s ease; }
+.social-tile:hover .social-arrow { color: var(--off); transform: translate(2px, -2px); }
+
+@media (max-width: 960px) {
+  .hero-grid { grid-template-columns: minmax(0, 1fr); gap: 36px; }
+  .about-inner { grid-template-columns: minmax(0, 1fr); gap: 32px; }
+  .profile-img { position: static; max-width: 300px; margin: 0 auto; order: -1; }
+}
+@media (max-width: 760px) {
+  .cert-row-2 { grid-template-columns: 1fr; }
+  .social-tile { padding: 20px; gap: 16px; }
+  .social-icon { width: 50px; height: 50px; }
+}
