@@ -693,3 +693,4 @@ nav { gap: 24px; }
 .cert-row-badges { grid-template-columns: repeat(3, 160px); gap: 36px; }
 .social-icon svg { width: 28px; height: 28px; }
 @media (max-width: 760px) { .cert-row-badges { grid-template-columns: repeat(2, 130px); } }
+.cert-feature-sm { max-width: none; }
