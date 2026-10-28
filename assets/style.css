@@ -552,7 +552,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 .connect-label { color: var(--muted); font-size: 13px; }
 .connect-links { margin-top: 8px; gap: 22px; }
 .connect-links a { font-size: 15px; }
-.contact-method .v { overflow-wrap: anywhere; }
+.contact-method .v { overflow-wrap: break-word; }
 
 a.card.project { display: block; transition: border-color 0.15s ease; }
 a.card.project:hover { border-color: var(--teal); }
@@ -711,3 +711,11 @@ nav { gap: 24px; }
 .btn:focus-visible { outline: 2px solid var(--teal); outline-offset: 3px; }
 .hero-copy > div:last-child { gap: 14px; }
 @media (max-width: 560px) { .btn-lg { width: 100%; } .btn-label { flex: 1; padding: 0 20px; } }
+
+/* ===== v8: mobile fixes ===== */
+@media (max-width: 640px) {
+  .job-head, .school-head { flex-wrap: wrap; }
+  .date-long { flex: 0 0 100%; white-space: normal !important; margin-top: 6px; }
+  .contact-method .v { white-space: nowrap; overflow-wrap: normal; font-size: clamp(11px, 3.1vw, 15px); }
+  .contact-method > div { min-width: 0; }
+}
